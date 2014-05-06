@@ -29,6 +29,7 @@ function printTop3(agent) {
 	Objects.forEach(function(item){item.update = new Date()});
 	Objects.forEach(function(item){ 
 		item.id = {type: item.kat.name, id: parseInt(item.poi.id)};
+		delete item.poi;
 		baustellen.push(item);
 	});
 
