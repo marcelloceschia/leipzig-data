@@ -1,0 +1,1308 @@
+[
+    {
+        "id": {
+            "type": "Baustelle",
+            "id": 22
+        },
+        "name": "Adenauerallee",
+        "kat": {
+            "id": 1,
+            "name": "Baustelle"
+        },
+        "poi": {
+            "id": "22",
+            "name": "Adenauerallee",
+            "kat": {
+                "id": 1
+            },
+            "comment": "",
+            "a": "Adenauerallee",
+            "b": "Strassenbau",
+            "c": "Rohrteichstr.",
+            "d": "Volksgartenstr.",
+            "e": "halbseitige Sperrung mit Wechsel-LZA",
+            "f": "",
+            "g": "",
+            "h": "22.4.2014",
+            "i": "13.5.2014",
+            "j": "",
+            "k": "",
+            "l": "",
+            "m": ""
+        },
+        "date": {
+            "begin": "2014-04-21T22:00:00.000Z",
+            "end": "2014-05-12T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Volksgartenstr.",
+            "end": "Rohrteichstr.",
+            "type": "halbseitige Sperrung mit Wechsel-LZA"
+        },
+        "redirection": "",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Baustelle",
+            "id": 22
+        },
+        "name": "Adenauerallee",
+        "kat": {
+            "id": 1,
+            "name": "Baustelle"
+        },
+        "poi": {
+            "id": "22",
+            "name": "Adenauerallee",
+            "kat": {
+                "id": 1
+            },
+            "comment": "",
+            "a": "Adenauerallee",
+            "b": "Strassenbau",
+            "c": "Rohrteichstr.",
+            "d": "Volksgartenstr.",
+            "e": "halbseitige Sperrung mit Wechsel-LZA",
+            "f": "",
+            "g": "",
+            "h": "22.4.2014",
+            "i": "13.5.2014",
+            "j": "",
+            "k": "",
+            "l": "",
+            "m": ""
+        },
+        "date": {
+            "begin": "2014-04-21T22:00:00.000Z",
+            "end": "2014-05-12T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Volksgartenstr.",
+            "end": "Rohrteichstr.",
+            "type": "halbseitige Sperrung mit Wechsel-LZA"
+        },
+        "redirection": "",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Baustelle",
+            "id": 21
+        },
+        "name": "Tauchaer Straße/Kieler Straße",
+        "kat": {
+            "id": 1,
+            "name": "Baustelle"
+        },
+        "poi": {
+            "id": "21",
+            "name": "Tauchaer Straße/Kieler Straße",
+            "kat": {
+                "id": 1
+            },
+            "comment": "",
+            "a": "Tauchaer Str./Kieler Str.",
+            "b": "Leitungsbau",
+            "c": "",
+            "d": "",
+            "e": "Aus der Stralsunder Str. ist nur noch das Rechtsabbiegen in die Tauchaer Str. moeglich!",
+            "f": "",
+            "g": "",
+            "h": "5.5.2014",
+            "i": "12.5.2014",
+            "j": "",
+            "k": "",
+            "l": "",
+            "m": ""
+        },
+        "date": {
+            "begin": "2014-05-04T22:00:00.000Z",
+            "end": "2014-05-11T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "",
+            "end": "",
+            "type": "Aus der Stralsunder Str. ist nur noch das Rechtsabbiegen in die Tauchaer Str. moeglich!"
+        },
+        "redirection": "",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Baustelle",
+            "id": 20
+        },
+        "name": "Ludolf-Colditz-Straße",
+        "kat": {
+            "id": 1,
+            "name": "Baustelle"
+        },
+        "poi": {
+            "id": "20",
+            "name": "Ludolf-Colditz-Straße",
+            "kat": {
+                "id": 1
+            },
+            "comment": "",
+            "a": "L.-Colditz-Str.",
+            "b": "Leitungsbau",
+            "c": "Holzhaeuser Str.",
+            "d": "",
+            "e": "Kein Abbiegen von L.-Colditz-Str. in Holzhaeuser Str. moeglich!",
+            "f": "",
+            "g": "",
+            "h": "7.5.2014",
+            "i": "16.5.2014",
+            "j": "",
+            "k": "",
+            "l": "",
+            "m": "Umleitung ueber Holzhaeuser Str./Schoenbachstr."
+        },
+        "date": {
+            "begin": "2014-05-06T22:00:00.000Z",
+            "end": "2014-05-15T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "",
+            "end": "Holzhaeuser Str.",
+            "type": "Kein Abbiegen von L.-Colditz-Str. in Holzhaeuser Str. moeglich!"
+        },
+        "redirection": "Umleitung ueber Holzhaeuser Str./Schoenbachstr.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Baustelle",
+            "id": 20
+        },
+        "name": "Ludolf-Colditz-Straße",
+        "kat": {
+            "id": 1,
+            "name": "Baustelle"
+        },
+        "poi": {
+            "id": "20",
+            "name": "Ludolf-Colditz-Straße",
+            "kat": {
+                "id": 1
+            },
+            "comment": "",
+            "a": "L.-Colditz-Str.",
+            "b": "Leitungsbau",
+            "c": "Holzhaeuser Str.",
+            "d": "",
+            "e": "Kein Abbiegen von L.-Colditz-Str. in Holzhaeuser Str. moeglich!",
+            "f": "",
+            "g": "",
+            "h": "7.5.2014",
+            "i": "16.5.2014",
+            "j": "",
+            "k": "",
+            "l": "",
+            "m": "Umleitung ueber Holzhaeuser Str./Schoenbachstr."
+        },
+        "date": {
+            "begin": "2014-05-06T22:00:00.000Z",
+            "end": "2014-05-15T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "",
+            "end": "Holzhaeuser Str.",
+            "type": "Kein Abbiegen von L.-Colditz-Str. in Holzhaeuser Str. moeglich!"
+        },
+        "redirection": "Umleitung ueber Holzhaeuser Str./Schoenbachstr.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Baustelle",
+            "id": 19
+        },
+        "name": "Delitzscher Straße",
+        "kat": {
+            "id": 1,
+            "name": "Baustelle"
+        },
+        "poi": {
+            "id": "19",
+            "name": "Delitzscher Straße",
+            "kat": {
+                "id": 1
+            },
+            "comment": "",
+            "a": "Delitzscher Str.",
+            "b": "Leitungsbau",
+            "c": "Essener Str.",
+            "d": "Magnusstr.",
+            "e": "Sperrung in stadtauswaertiger Ri.",
+            "f": "",
+            "g": "",
+            "h": "5.5.2014",
+            "i": "24.5.2014",
+            "j": "",
+            "k": "",
+            "l": "",
+            "m": "Umleitung ueber Theresienstr./Maximilianallee/Essener Str."
+        },
+        "date": {
+            "begin": "2014-05-04T22:00:00.000Z",
+            "end": "2014-05-23T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Magnusstr.",
+            "end": "Essener Str.",
+            "type": "Sperrung in stadtauswaertiger Ri."
+        },
+        "redirection": "Umleitung ueber Theresienstr./Maximilianallee/Essener Str.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Baustelle",
+            "id": 18
+        },
+        "name": "Jahnallee/Lützner Straße",
+        "kat": {
+            "id": 1,
+            "name": "Baustelle"
+        },
+        "poi": {
+            "id": "18",
+            "name": "Jahnallee/Lützner Straße",
+            "kat": {
+                "id": 1
+            },
+            "comment": "",
+            "a": "Jahnallee",
+            "b": "Gleisbau",
+            "c": "Luetzner Str.",
+            "d": "",
+            "e": "Sperrung in stadtauswaertiger Ri.",
+            "f": "",
+            "g": "",
+            "h": "12.5.2014",
+            "i": "24.5.2014",
+            "j": "",
+            "k": "",
+            "l": "",
+            "m": "Umleitung ueber Am Sportforum/ H.- Driesch-Str./Rueckmarsdorfer Str. "
+        },
+        "date": {
+            "begin": "2014-05-11T22:00:00.000Z",
+            "end": "2014-05-23T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "",
+            "end": "Luetzner Str.",
+            "type": "Sperrung in stadtauswaertiger Ri."
+        },
+        "redirection": "Umleitung ueber Am Sportforum/ H.- Driesch-Str./Rueckmarsdorfer Str. ",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Baustelle",
+            "id": 18
+        },
+        "name": "Jahnallee/Lützner Straße",
+        "kat": {
+            "id": 1,
+            "name": "Baustelle"
+        },
+        "poi": {
+            "id": "18",
+            "name": "Jahnallee/Lützner Straße",
+            "kat": {
+                "id": 1
+            },
+            "comment": "",
+            "a": "Jahnallee",
+            "b": "Gleisbau",
+            "c": "Luetzner Str.",
+            "d": "",
+            "e": "Sperrung in stadtauswaertiger Ri.",
+            "f": "",
+            "g": "",
+            "h": "12.5.2014",
+            "i": "24.5.2014",
+            "j": "",
+            "k": "",
+            "l": "",
+            "m": "Umleitung ueber Am Sportforum/ H.- Driesch-Str./Rueckmarsdorfer Str. "
+        },
+        "date": {
+            "begin": "2014-05-11T22:00:00.000Z",
+            "end": "2014-05-23T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "",
+            "end": "Luetzner Str.",
+            "type": "Sperrung in stadtauswaertiger Ri."
+        },
+        "redirection": "Umleitung ueber Am Sportforum/ H.- Driesch-Str./Rueckmarsdorfer Str. ",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Baustelle",
+            "id": 17
+        },
+        "name": "Antonienstraße",
+        "kat": {
+            "id": 1,
+            "name": "Baustelle"
+        },
+        "poi": {
+            "id": "17",
+            "name": "Antonienstraße",
+            "kat": {
+                "id": 1
+            },
+            "comment": "",
+            "a": "Antonienstr.",
+            "b": "Leitungsbau",
+            "c": "Wendlerstr.",
+            "d": "Klingenstr.",
+            "e": "Sperrung in stadtauswaertiger Ri.",
+            "f": "",
+            "g": "",
+            "h": "22.4.2014",
+            "i": "13.5.2014",
+            "j": "",
+            "k": "",
+            "l": "",
+            "m": "Umleitung ueber E.-Zeigner-Allee/Limburger Str./Zschochersche Str."
+        },
+        "date": {
+            "begin": "2014-04-21T22:00:00.000Z",
+            "end": "2014-05-12T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Klingenstr.",
+            "end": "Wendlerstr.",
+            "type": "Sperrung in stadtauswaertiger Ri."
+        },
+        "redirection": "Umleitung ueber E.-Zeigner-Allee/Limburger Str./Zschochersche Str.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Baustelle",
+            "id": 17
+        },
+        "name": "Antonienstraße",
+        "kat": {
+            "id": 1,
+            "name": "Baustelle"
+        },
+        "poi": {
+            "id": "17",
+            "name": "Antonienstraße",
+            "kat": {
+                "id": 1
+            },
+            "comment": "",
+            "a": "Antonienstr.",
+            "b": "Leitungsbau",
+            "c": "Wendlerstr.",
+            "d": "Klingenstr.",
+            "e": "Sperrung in stadtauswaertiger Ri.",
+            "f": "",
+            "g": "",
+            "h": "22.4.2014",
+            "i": "13.5.2014",
+            "j": "",
+            "k": "",
+            "l": "",
+            "m": "Umleitung ueber E.-Zeigner-Allee/Limburger Str./Zschochersche Str."
+        },
+        "date": {
+            "begin": "2014-04-21T22:00:00.000Z",
+            "end": "2014-05-12T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Klingenstr.",
+            "end": "Wendlerstr.",
+            "type": "Sperrung in stadtauswaertiger Ri."
+        },
+        "redirection": "Umleitung ueber E.-Zeigner-Allee/Limburger Str./Zschochersche Str.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Baustelle",
+            "id": 12
+        },
+        "name": "Karl-Tauchnitz-Straße",
+        "kat": {
+            "id": 1,
+            "name": "Baustelle"
+        },
+        "poi": {
+            "id": "12",
+            "name": "Karl-Tauchnitz-Straße",
+            "kat": {
+                "id": 1
+            },
+            "comment": "",
+            "a": "K.-Tauchnitz-Str.",
+            "b": "Strassenbau",
+            "c": "Kreisverkehr",
+            "d": "",
+            "e": "Sperrung in stadtwaertige Ri.",
+            "f": "",
+            "g": "",
+            "h": "17.3.2014",
+            "i": "27.6.2014 (1. Bauabschnitt)",
+            "j": "",
+            "k": "",
+            "l": "",
+            "m": "Umleitung ueber Haydnstr./Grassistr./Karl-Tauchnitz-Str."
+        },
+        "date": {
+            "begin": "2014-03-16T23:00:00.000Z",
+            "end": null
+        },
+        "limitation": {
+            "begin": "",
+            "end": "Kreisverkehr",
+            "type": "Sperrung in stadtwaertige Ri."
+        },
+        "redirection": "Umleitung ueber Haydnstr./Grassistr./Karl-Tauchnitz-Str.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Baustelle",
+            "id": 12
+        },
+        "name": "Karl-Tauchnitz-Straße",
+        "kat": {
+            "id": 1,
+            "name": "Baustelle"
+        },
+        "poi": {
+            "id": "12",
+            "name": "Karl-Tauchnitz-Straße",
+            "kat": {
+                "id": 1
+            },
+            "comment": "",
+            "a": "K.-Tauchnitz-Str.",
+            "b": "Strassenbau",
+            "c": "Kreisverkehr",
+            "d": "",
+            "e": "Sperrung in stadtwaertige Ri.",
+            "f": "",
+            "g": "",
+            "h": "17.3.2014",
+            "i": "27.6.2014 (1. Bauabschnitt)",
+            "j": "",
+            "k": "",
+            "l": "",
+            "m": "Umleitung ueber Haydnstr./Grassistr./Karl-Tauchnitz-Str."
+        },
+        "date": {
+            "begin": "2014-03-16T23:00:00.000Z",
+            "end": null
+        },
+        "limitation": {
+            "begin": "",
+            "end": "Kreisverkehr",
+            "type": "Sperrung in stadtwaertige Ri."
+        },
+        "redirection": "Umleitung ueber Haydnstr./Grassistr./Karl-Tauchnitz-Str.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Baustelle",
+            "id": 11
+        },
+        "name": "Jahnallee",
+        "kat": {
+            "id": 1,
+            "name": "Baustelle"
+        },
+        "poi": {
+            "id": "11",
+            "name": "Jahnallee",
+            "kat": {
+                "id": 1
+            },
+            "comment": "",
+            "a": "Jahnallee",
+            "b": "Gleisbau",
+            "c": "Leibnizstr.",
+            "d": "Waldstr.",
+            "e": "Sperrung in stadtausw. Ri.",
+            "f": "",
+            "g": "",
+            "h": "17.3.2014",
+            "i": "28.4.2014",
+            "j": "",
+            "k": "",
+            "l": "",
+            "m": "Umleitung ueber Leibnizstr./Gustav-Adolf-Str./Friedrich-Ebert-Str."
+        },
+        "date": {
+            "begin": "2014-03-16T23:00:00.000Z",
+            "end": "2014-04-27T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Waldstr.",
+            "end": "Leibnizstr.",
+            "type": "Sperrung in stadtausw. Ri."
+        },
+        "redirection": "Umleitung ueber Leibnizstr./Gustav-Adolf-Str./Friedrich-Ebert-Str.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Baustelle",
+            "id": 11
+        },
+        "name": "Jahnallee",
+        "kat": {
+            "id": 1,
+            "name": "Baustelle"
+        },
+        "poi": {
+            "id": "11",
+            "name": "Jahnallee",
+            "kat": {
+                "id": 1
+            },
+            "comment": "",
+            "a": "Jahnallee",
+            "b": "Gleisbau",
+            "c": "Leibnizstr.",
+            "d": "Waldstr.",
+            "e": "Sperrung in stadtausw. Ri.",
+            "f": "",
+            "g": "",
+            "h": "17.3.2014",
+            "i": "28.4.2014",
+            "j": "",
+            "k": "",
+            "l": "",
+            "m": "Umleitung ueber Leibnizstr./Gustav-Adolf-Str./Friedrich-Ebert-Str."
+        },
+        "date": {
+            "begin": "2014-03-16T23:00:00.000Z",
+            "end": "2014-04-27T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Waldstr.",
+            "end": "Leibnizstr.",
+            "type": "Sperrung in stadtausw. Ri."
+        },
+        "redirection": "Umleitung ueber Leibnizstr./Gustav-Adolf-Str./Friedrich-Ebert-Str.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 141
+        },
+        "name": "Angerstraße",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "141",
+            "name": "Angerstraße",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "Angerstr.",
+            "b": "Leitungsbau",
+            "c": "Rossmarktstr.",
+            "d": "Kuhturmstr.",
+            "e": "Vollsperrung",
+            "f": "",
+            "g": "",
+            "h": "",
+            "i": "",
+            "j": "28.4.2014",
+            "k": "31.5.2014",
+            "l": "",
+            "m": "",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2014-04-27T22:00:00.000Z",
+            "end": "2014-05-30T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Rossmarktstr.",
+            "end": "Kuhturmstr.",
+            "type": "Vollsperrung"
+        },
+        "redirection": "",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 141
+        },
+        "name": "Angerstraße",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "141",
+            "name": "Angerstraße",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "Angerstr.",
+            "b": "Leitungsbau",
+            "c": "Rossmarktstr.",
+            "d": "Kuhturmstr.",
+            "e": "Vollsperrung",
+            "f": "",
+            "g": "",
+            "h": "",
+            "i": "",
+            "j": "28.4.2014",
+            "k": "31.5.2014",
+            "l": "",
+            "m": "",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2014-04-27T22:00:00.000Z",
+            "end": "2014-05-30T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Rossmarktstr.",
+            "end": "Kuhturmstr.",
+            "type": "Vollsperrung"
+        },
+        "redirection": "",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 140
+        },
+        "name": "Gießerstraße",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "140",
+            "name": "Gießerstraße",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "Giesserstr.",
+            "b": "Gleisbau",
+            "c": "Siemensstr.",
+            "d": "Wigandstr.",
+            "e": "Vollsperrung",
+            "f": "",
+            "g": "",
+            "h": "",
+            "i": "",
+            "j": "22.4.2014",
+            "k": "13.5.2014",
+            "l": "",
+            "m": "Umleitung in beiden Ri. ueber Dieskaustr./Zschochersche Str./Limburgerstr.",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2014-04-21T22:00:00.000Z",
+            "end": "2014-05-12T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Siemensstr.",
+            "end": "Wigandstr.",
+            "type": "Vollsperrung"
+        },
+        "redirection": "Umleitung in beiden Ri. ueber Dieskaustr./Zschochersche Str./Limburgerstr.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 140
+        },
+        "name": "Gießerstraße",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "140",
+            "name": "Gießerstraße",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "Giesserstr.",
+            "b": "Gleisbau",
+            "c": "Siemensstr.",
+            "d": "Wigandstr.",
+            "e": "Vollsperrung",
+            "f": "",
+            "g": "",
+            "h": "",
+            "i": "",
+            "j": "22.4.2014",
+            "k": "13.5.2014",
+            "l": "",
+            "m": "Umleitung in beiden Ri. ueber Dieskaustr./Zschochersche Str./Limburgerstr.",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2014-04-21T22:00:00.000Z",
+            "end": "2014-05-12T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Siemensstr.",
+            "end": "Wigandstr.",
+            "type": "Vollsperrung"
+        },
+        "redirection": "Umleitung in beiden Ri. ueber Dieskaustr./Zschochersche Str./Limburgerstr.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 139
+        },
+        "name": "Friedrich-Ebert-Straße",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "139",
+            "name": "Friedrich-Ebert-Straße",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "F.-Ebert-Str.",
+            "b": "Brueckenbau",
+            "c": "Westplatz",
+            "d": "Waldplatz",
+            "e": "Vollsperrung",
+            "f": "",
+            "g": "",
+            "h": "",
+            "i": "",
+            "j": "5.5.2014",
+            "k": "18.12.2014",
+            "l": "",
+            "m": "Umleitung ueber K.-Kollwitz-Str./Marschnerstr./A. Sportforum/Leutzscher Allee und ueber Leutzscher Allee/ Am Sportforum/Marschnerstr.",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2014-05-04T22:00:00.000Z",
+            "end": "2014-12-17T23:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Westplatz",
+            "end": "Waldplatz",
+            "type": "Vollsperrung"
+        },
+        "redirection": "Umleitung ueber K.-Kollwitz-Str./Marschnerstr./A. Sportforum/Leutzscher Allee und ueber Leutzscher Allee/ Am Sportforum/Marschnerstr.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 139
+        },
+        "name": "Friedrich-Ebert-Straße",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "139",
+            "name": "Friedrich-Ebert-Straße",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "F.-Ebert-Str.",
+            "b": "Brueckenbau",
+            "c": "Westplatz",
+            "d": "Waldplatz",
+            "e": "Vollsperrung",
+            "f": "",
+            "g": "",
+            "h": "",
+            "i": "",
+            "j": "5.5.2014",
+            "k": "18.12.2014",
+            "l": "",
+            "m": "Umleitung ueber K.-Kollwitz-Str./Marschnerstr./A. Sportforum/Leutzscher Allee und ueber Leutzscher Allee/ Am Sportforum/Marschnerstr.",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2014-05-04T22:00:00.000Z",
+            "end": "2014-12-17T23:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Westplatz",
+            "end": "Waldplatz",
+            "type": "Vollsperrung"
+        },
+        "redirection": "Umleitung ueber K.-Kollwitz-Str./Marschnerstr./A. Sportforum/Leutzscher Allee und ueber Leutzscher Allee/ Am Sportforum/Marschnerstr.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 138
+        },
+        "name": "Tauchaer Straße",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "138",
+            "name": "Tauchaer Straße",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "Tauchaer Str.",
+            "b": "Brueckenbau",
+            "c": "Kieler Str.",
+            "d": "Kiebitzstr.",
+            "e": "Vollsperrung",
+            "f": "",
+            "g": "",
+            "h": "",
+            "i": "",
+            "j": "1.7.2013",
+            "k": "31.8.2015",
+            "l": "",
+            "m": "Umleitung in beiden Ri. ueber Stralsunder Str./Goeteborger Str.",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2013-06-30T22:00:00.000Z",
+            "end": "2015-08-30T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Kieler Str.",
+            "end": "Kiebitzstr.",
+            "type": "Vollsperrung"
+        },
+        "redirection": "Umleitung in beiden Ri. ueber Stralsunder Str./Goeteborger Str.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 137
+        },
+        "name": "Wurzner Straße",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "137",
+            "name": "Wurzner Straße",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "Wurzner Str.",
+            "b": "Strassenbau",
+            "c": "Dresdner Str.",
+            "d": "Torgauer Str.",
+            "e": "Vollsperrung",
+            "f": "",
+            "g": "",
+            "h": "",
+            "i": "",
+            "j": "5.4.2014",
+            "k": "30.11.2014",
+            "l": "",
+            "m": "Umleitung stadtausw. Dresdner Str./Breite Str./Bernhardstr./Ihmelstr./Wurzner Str./Bautzmannstr./Eisenbahnstr./Torgauer Str., Umleitung stadtwaerts Torgauer Str./Eisenbahnstr./Elisabethstr./Dornberger Str./H.-Liebmann-Str./Bergstrr./Kohlgartenstr.",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2014-04-04T22:00:00.000Z",
+            "end": "2014-11-29T23:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Dresdner Str.",
+            "end": "Torgauer Str.",
+            "type": "Vollsperrung"
+        },
+        "redirection": "Umleitung stadtausw. Dresdner Str./Breite Str./Bernhardstr./Ihmelstr./Wurzner Str./Bautzmannstr./Eisenbahnstr./Torgauer Str., Umleitung stadtwaerts Torgauer Str./Eisenbahnstr./Elisabethstr./Dornberger Str./H.-Liebmann-Str./Bergstrr./Kohlgartenstr.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 137
+        },
+        "name": "Wurzner Straße",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "137",
+            "name": "Wurzner Straße",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "Wurzner Str.",
+            "b": "Strassenbau",
+            "c": "Dresdner Str.",
+            "d": "Torgauer Str.",
+            "e": "Vollsperrung",
+            "f": "",
+            "g": "",
+            "h": "",
+            "i": "",
+            "j": "5.4.2014",
+            "k": "30.11.2014",
+            "l": "",
+            "m": "Umleitung stadtausw. Dresdner Str./Breite Str./Bernhardstr./Ihmelstr./Wurzner Str./Bautzmannstr./Eisenbahnstr./Torgauer Str., Umleitung stadtwaerts Torgauer Str./Eisenbahnstr./Elisabethstr./Dornberger Str./H.-Liebmann-Str./Bergstrr./Kohlgartenstr.",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2014-04-04T22:00:00.000Z",
+            "end": "2014-11-29T23:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Dresdner Str.",
+            "end": "Torgauer Str.",
+            "type": "Vollsperrung"
+        },
+        "redirection": "Umleitung stadtausw. Dresdner Str./Breite Str./Bernhardstr./Ihmelstr./Wurzner Str./Bautzmannstr./Eisenbahnstr./Torgauer Str., Umleitung stadtwaerts Torgauer Str./Eisenbahnstr./Elisabethstr./Dornberger Str./H.-Liebmann-Str./Bergstrr./Kohlgartenstr.",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 136
+        },
+        "name": "William-Zipperer-Straße",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "136",
+            "name": "William-Zipperer-Straße",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "W.-Zipperer-Str.",
+            "b": "Leitungsbau",
+            "c": "Flemmingstr.",
+            "d": "Uhlandstr.",
+            "e": "Vollsperrung",
+            "f": "",
+            "g": "",
+            "h": "",
+            "i": "",
+            "j": "19.3.2014",
+            "k": "9.5.2014 (Gesamtbauzeit bis Mai 2014)",
+            "l": "",
+            "m": "",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2014-03-18T23:00:00.000Z",
+            "end": null
+        },
+        "limitation": {
+            "begin": "Flemmingstr.",
+            "end": "Uhlandstr.",
+            "type": "Vollsperrung"
+        },
+        "redirection": "",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 136
+        },
+        "name": "William-Zipperer-Straße",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "136",
+            "name": "William-Zipperer-Straße",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "W.-Zipperer-Str.",
+            "b": "Leitungsbau",
+            "c": "Flemmingstr.",
+            "d": "Uhlandstr.",
+            "e": "Vollsperrung",
+            "f": "",
+            "g": "",
+            "h": "",
+            "i": "",
+            "j": "19.3.2014",
+            "k": "9.5.2014 (Gesamtbauzeit bis Mai 2014)",
+            "l": "",
+            "m": "",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2014-03-18T23:00:00.000Z",
+            "end": null
+        },
+        "limitation": {
+            "begin": "Flemmingstr.",
+            "end": "Uhlandstr.",
+            "type": "Vollsperrung"
+        },
+        "redirection": "",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 134
+        },
+        "name": "Peterssteinweg/Karl-Liebknecht-Straße (Anliegerverkehr frei)",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "134",
+            "name": "Peterssteinweg/Karl-Liebknecht-Straße (Anliegerverkehr frei)",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "Peterssteinweg/K.-Liebknecht-Str.",
+            "b": "Strassenbau",
+            "c": "M.-Luther-Ring",
+            "d": "Koernerstr.",
+            "e": "Vollsperrung (Anliegerverkehr frei)",
+            "f": "",
+            "g": "",
+            "h": "",
+            "i": "",
+            "j": "6.1.2014",
+            "k": "27.11.2014 (Gesamtbauzeit bis Nov. 2015)",
+            "l": "",
+            "m": "Umleitung ueber K.-Eisner-Str./A.-Hoffmann-Str./Windmuehlenstr./Gruenewaldstr. und Gruenewaldstr./Windmuehlenstr./A.-Hoffmann-Str. / Hohe Str./B.-Goering-Str./K.-Eisner-Str. (Anlieger- und Anlieferverkehr frei)",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2014-01-05T23:00:00.000Z",
+            "end": null
+        },
+        "limitation": {
+            "begin": "M.-Luther-Ring",
+            "end": "Koernerstr.",
+            "type": "Vollsperrung (Anliegerverkehr frei)"
+        },
+        "redirection": "Umleitung ueber K.-Eisner-Str./A.-Hoffmann-Str./Windmuehlenstr./Gruenewaldstr. und Gruenewaldstr./Windmuehlenstr./A.-Hoffmann-Str. / Hohe Str./B.-Goering-Str./K.-Eisner-Str. (Anlieger- und Anlieferverkehr frei)",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 134
+        },
+        "name": "Peterssteinweg/Karl-Liebknecht-Straße (Anliegerverkehr frei)",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "134",
+            "name": "Peterssteinweg/Karl-Liebknecht-Straße (Anliegerverkehr frei)",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "Peterssteinweg/K.-Liebknecht-Str.",
+            "b": "Strassenbau",
+            "c": "M.-Luther-Ring",
+            "d": "Koernerstr.",
+            "e": "Vollsperrung (Anliegerverkehr frei)",
+            "f": "",
+            "g": "",
+            "h": "",
+            "i": "",
+            "j": "6.1.2014",
+            "k": "27.11.2014 (Gesamtbauzeit bis Nov. 2015)",
+            "l": "",
+            "m": "Umleitung ueber K.-Eisner-Str./A.-Hoffmann-Str./Windmuehlenstr./Gruenewaldstr. und Gruenewaldstr./Windmuehlenstr./A.-Hoffmann-Str. / Hohe Str./B.-Goering-Str./K.-Eisner-Str. (Anlieger- und Anlieferverkehr frei)",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2014-01-05T23:00:00.000Z",
+            "end": null
+        },
+        "limitation": {
+            "begin": "M.-Luther-Ring",
+            "end": "Koernerstr.",
+            "type": "Vollsperrung (Anliegerverkehr frei)"
+        },
+        "redirection": "Umleitung ueber K.-Eisner-Str./A.-Hoffmann-Str./Windmuehlenstr./Gruenewaldstr. und Gruenewaldstr./Windmuehlenstr./A.-Hoffmann-Str. / Hohe Str./B.-Goering-Str./K.-Eisner-Str. (Anlieger- und Anlieferverkehr frei)",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 124
+        },
+        "name": "Lützner Straße",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "124",
+            "name": "Lützner Straße",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "Luetzner Str.",
+            "b": "Strassenbau",
+            "c": "Plautstr.",
+            "d": "Henriettenstr.",
+            "e": "Vollsperrung",
+            "f": "",
+            "g": "",
+            "h": "",
+            "i": "",
+            "j": "26.8.2013",
+            "k": "31.12.2014",
+            "l": "",
+            "m": "Umleitung stadtauswaerts ueber Merseburger Str./Schomburgkstr. / Plautstr./Luetzner Str. und stadtwaerts ueber Plautstr./Schomburgkstr./Merseburger Str. ",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2013-08-25T22:00:00.000Z",
+            "end": "2014-12-30T23:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Plautstr.",
+            "end": "Henriettenstr.",
+            "type": "Vollsperrung"
+        },
+        "redirection": "Umleitung stadtauswaerts ueber Merseburger Str./Schomburgkstr. / Plautstr./Luetzner Str. und stadtwaerts ueber Plautstr./Schomburgkstr./Merseburger Str. ",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 124
+        },
+        "name": "Lützner Straße",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "124",
+            "name": "Lützner Straße",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "Luetzner Str.",
+            "b": "Strassenbau",
+            "c": "Plautstr.",
+            "d": "Henriettenstr.",
+            "e": "Vollsperrung",
+            "f": "",
+            "g": "",
+            "h": "",
+            "i": "",
+            "j": "26.8.2013",
+            "k": "31.12.2014",
+            "l": "",
+            "m": "Umleitung stadtauswaerts ueber Merseburger Str./Schomburgkstr. / Plautstr./Luetzner Str. und stadtwaerts ueber Plautstr./Schomburgkstr./Merseburger Str. ",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2013-08-25T22:00:00.000Z",
+            "end": "2014-12-30T23:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Plautstr.",
+            "end": "Henriettenstr.",
+            "type": "Vollsperrung"
+        },
+        "redirection": "Umleitung stadtauswaerts ueber Merseburger Str./Schomburgkstr. / Plautstr./Luetzner Str. und stadtwaerts ueber Plautstr./Schomburgkstr./Merseburger Str. ",
+        "update": "2014-05-06T18:13:10.708Z"
+    },
+    {
+        "id": {
+            "type": "Vollsperrung",
+            "id": 107
+        },
+        "name": "Bornaische Straße",
+        "kat": {
+            "id": 16,
+            "name": "Vollsperrung"
+        },
+        "poi": {
+            "id": "107",
+            "name": "Bornaische Straße",
+            "kat": {
+                "id": 16
+            },
+            "comment": "",
+            "a": "Bornaische Str.",
+            "b": "Brueckenbau",
+            "c": "Probstheidaer Str.",
+            "d": "Rembrandtplatz",
+            "e": "Vollsperrung",
+            "f": "ueber Matzelstr./Goethesteig/B2/Koburger Str./W.-Heinze-Str.",
+            "g": "",
+            "h": "ueber Wolfgang-Heinze-Str./Koburger Str./B 2/Goethesteig /Matzelstr.",
+            "i": "",
+            "j": "9.1.2012",
+            "k": "30.7.2014",
+            "l": "",
+            "m": "",
+            "direction": "S"
+        },
+        "date": {
+            "begin": "2012-01-08T23:00:00.000Z",
+            "end": "2014-07-29T22:00:00.000Z"
+        },
+        "limitation": {
+            "begin": "Probstheidaer Str.",
+            "end": "Rembrandtplatz",
+            "type": "Vollsperrung"
+        },
+        "redirection": "",
+        "update": "2014-05-06T18:13:10.708Z"
+    }
+]
