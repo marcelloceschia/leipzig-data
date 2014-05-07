@@ -13,6 +13,7 @@ var kataList = [];
 
 var EinrichtungsArt = {1: "Kindertagesstätte", 2: "Tagesmutter", 4: "integr. Kindertagesstätte", 5: "integr. Tagesmutter"}
 
+
 jsdom.env({
 	url: "https://www.meinkitaplatz-leipzig.de/WFRecherche.aspx",
 	scripts: ["http://code.jquery.com/jquery-1.5.min.js"],
@@ -23,13 +24,13 @@ jsdom.env({
 	},
   	done: function (errors, window) {
     	var $ = window.$;
-    	
+
     	var geoData = window.geoData;
-    	kataList = geoData.map(function(elementStr){ 
-    		var data = elementStr.split("|"); 
-    		return {id: data[0], address: data[2],  lon: data[3], lat: data[4], name: data[5], district: data[6], type: EinrichtungsArt[ data[1]] };
+    	kataList = geoData.map(function(elementStr){
+    		var data = elementStr.split("|");
+    		return {id: parseInt(data[0]), address: data[2],  lng: parseFloat(data[3]), lat: parseFloat(data[4]), name: data[5], district: data[6], type: EinrichtungsArt[ data[1]] };
     	});
-		
+
 		var exportJsonFilename = 'data/kitas.json';
 
 		fs.writeFile(exportJsonFilename, JSON.stringify(kataList, null, 4), function(err) {
@@ -53,7 +54,7 @@ jsdom.env({
 		    }
 		});
 
-		/* TODO: read details of each element 
+		/* TODO: read details of each element
 		details can be get using https://www.meinkitaplatz-leipzig.de/WFSucheTppDetails.aspx?b=GUID where GUID is an unique id
 		e.g. https://www.meinkitaplatz-leipzig.de/WFSucheTppDetails.aspx?b=9d86f44b-1d18-443a-9cbb-2a634a6450e0
 		*/

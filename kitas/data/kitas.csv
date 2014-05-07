@@ -1,225 +1,225 @@
-id	address	lon	lat	name	district	type
+id	address	lng	lat	name	district	type
 1	Ahlfeldstraße  2 	0	0	Kita Ahlfeldstraße  2 	Alt-West	Kindertagesstätte
-2	Alte Straße 2 	12.34192000000000000000	51.33160000000000000000	Kita Alte Straße 2 	Südwest	Kindertagesstätte
-3	Alte Thekalerstr. 13a 	12.43344000000001800000	51.37855000000000000000	Kita Alte Thekalerstr. 13a 	Nordost	Kindertagesstätte
-4	Altenburger Str.  3 	12.38368000000000000000	51.31795000000000000000	Kita Altenburger Str.  3 	Süd	Kindertagesstätte
-5	Althener Anger  18 	12.51926000000000000000	51.33971000000000000000	Kita Althener Anger  18 	Ost	Kindertagesstätte
-6	Althener Straße 18 	12.48493000000000000000	51.33368000000000000000	Kita Althener Straße 18 	Ost	Kindertagesstätte
-7	Am Hohlweg 2 	12.30507000000000000000	51.38082000000000000000	Kita Am Hohlweg 2 	Nordwest	Kindertagesstätte
-8	Am Kirschberg 39 	12.28225000000000000000	51.31854000000000000000	Kita Am Kirschberg 39 	West	Kindertagesstätte
-9	Am Kirschberg  37 	12.28218140000001300000	51.31937500000000000000	Kita Am Kirschberg  37 	West	Kindertagesstätte
-10	Am Langen Felde 29 	12.31512000000000000000	51.34300000000000000000	Kita Am Langen Felde 29 	Alt-West	Kindertagesstätte
-11	Am langen Felde  8 	12.31630000000000000000	51.34537000000000000000	Kita Am langen Felde  8 	Alt-West	Kindertagesstätte
-12	An der Hauptstraße 40 a	12.44462000000000000000	51.42048000000000000000	Kita An der Hauptstraße 40 a	Nord	Kindertagesstätte
-13	An der Lehde 12 	12.32199000000000000000	51.34580000000000000000	Kita An der Lehde 12 	Alt-West	Kindertagesstätte
-14	An der Lehde 14 	12.32218000000000000000	51.34556000000000000000	Kita An der Lehde 14 	Alt-West	Kindertagesstätte
-15	An der Märchenwiese 3 	12.39306000000000000000	51.30574000000000000000	Kita An der Märchenwiese 3 	Süd	Kindertagesstätte
-16	An der Querbreite 4 	12.38740000000000000000	51.37097000000000000000	Kita An der Querbreite 4 	Nord	Kindertagesstätte
-17	An der Schule 1 	12.33347000000000000000	51.39204000000000000000	Kita An der Schule 1 	Nordwest	Kindertagesstätte
+2	Alte Straße 2 	12.34192	51.3316	Kita Alte Straße 2 	Südwest	Kindertagesstätte
+3	Alte Thekalerstr. 13a 	12.433440000000019	51.37855	Kita Alte Thekalerstr. 13a 	Nordost	Kindertagesstätte
+4	Altenburger Str.  3 	12.38368	51.31795	Kita Altenburger Str.  3 	Süd	Kindertagesstätte
+5	Althener Anger  18 	12.51926	51.33971	Kita Althener Anger  18 	Ost	Kindertagesstätte
+6	Althener Straße 18 	12.48493	51.33368	Kita Althener Straße 18 	Ost	Kindertagesstätte
+7	Am Hohlweg 2 	12.30507	51.38082	Kita Am Hohlweg 2 	Nordwest	Kindertagesstätte
+8	Am Kirschberg 39 	12.28225	51.31854	Kita Am Kirschberg 39 	West	Kindertagesstätte
+9	Am Kirschberg  37 	12.282181400000013	51.319375	Kita Am Kirschberg  37 	West	Kindertagesstätte
+10	Am Langen Felde 29 	12.31512	51.343	Kita Am Langen Felde 29 	Alt-West	Kindertagesstätte
+11	Am langen Felde  8 	12.3163	51.34537	Kita Am langen Felde  8 	Alt-West	Kindertagesstätte
+12	An der Hauptstraße 40 a	12.44462	51.42048	Kita An der Hauptstraße 40 a	Nord	Kindertagesstätte
+13	An der Lehde 12 	12.32199	51.3458	Kita An der Lehde 12 	Alt-West	Kindertagesstätte
+14	An der Lehde 14 	12.32218	51.34556	Kita An der Lehde 14 	Alt-West	Kindertagesstätte
+15	An der Märchenwiese 3 	12.39306	51.30574	Kita An der Märchenwiese 3 	Süd	Kindertagesstätte
+16	An der Querbreite 4 	12.3874	51.37097	Kita An der Querbreite 4 	Nord	Kindertagesstätte
+17	An der Schule 1 	12.33347	51.39204	Kita An der Schule 1 	Nordwest	Kindertagesstätte
 18	An der Tabaksmühle 30 	0	0	Kita An der Tabaksmühle 30 	Süd	Kindertagesstätte
-19	An der Teichmühle 2 	12.25032000000000000000	51.34078000000000000000	Kita An der Teichmühle 2 	Alt-West	Kindertagesstätte
-20	Arthur-Nagel-Straße 1 a/b	12.32387040000003200000	51.30736400000000000000	Kita Arthur-Nagel-Straße 1 a/b	Südwest	Kindertagesstätte
-21	Auenstraße 10 	12.29780000000000000000	51.35897000000000000000	Kita Auenstraße 10 	Alt-West	Kindertagesstätte
+19	An der Teichmühle 2 	12.25032	51.34078	Kita An der Teichmühle 2 	Alt-West	Kindertagesstätte
+20	Arthur-Nagel-Straße 1 a/b	12.323870400000033	51.307364	Kita Arthur-Nagel-Straße 1 a/b	Südwest	Kindertagesstätte
+21	Auenstraße 10 	12.2978	51.35897	Kita Auenstraße 10 	Alt-West	Kindertagesstätte
 22	Bästleinstraße 18 	0	0	Kita Bästleinstraße 18 	Nordost	Kindertagesstätte
-23	Bernburger Straße 22 	12.39214000000000000000	51.36438000000000000000	Kita Bernburger Straße 22 	Nord	Kindertagesstätte
-24	Bertolt-Brecht-Straße 11 	12.42947000000000000000	51.35653000000000000000	Kita Bertolt-Brecht-Straße 11 	Nordost	Kindertagesstätte
-25	Biedermannstraße 23 	12.37584000000000000000	51.30789000000000000000	Kita Biedermannstraße 23 	Süd	Kindertagesstätte
-26	Bisamstraße 17 	12.47250520000000000000	51.35665930000000000000	Kita Bisamstraße 17 	Ost	Kindertagesstätte
-27	Bockstraße 8 	12.42694000000000000000	51.30359000000000000000	Kita Bockstraße 8 	Südost	Kindertagesstätte
-28	Bornaische Straße 184 	12.39239000000000000000	51.28732000000000000000	Kita Bornaische Straße 184 	Süd	Kindertagesstätte
-29	Bornaische Straße 138 	12.38685000000000000000	51.29381000000000000000	Kita Bornaische Straße 138 	Süd	Kindertagesstätte
-30	Bornaische Straße  186 c 	12.39211000000000000000	51.28663000000000000000	Kita Bornaische Straße  186 c 	Süd	Kindertagesstätte
-31	Bothestraße 17/19 	12.35402000000000000000	51.36433000000000000000	Kita Bothestraße 17/19 	Nord	Kindertagesstätte
-32	Brandiser Straße 20 	12.47453000000000000000	51.32294000000000000000	Kita Brandiser Straße 20 	Ost	Kindertagesstätte
-33	Breisgaustraße 21 a	12.29273000000000600000	51.31778000000000000000	Kita Breisgaustraße 21 a	West	Kindertagesstätte
-34	Bremer Straße 17 	12.36480000000000000000	51.37699000000000000000	Kita Bremer Straße 17 	Nord	Kindertagesstätte
-35	Bremer Weg 17 	12.36316000000000000000	51.38376000000000000000	Kita Bremer Weg 17 	Nord	Kindertagesstätte
-36	Coppistraße 19 	12.38138000000000000000	51.36586000000000000000	Kita Coppistraße 19 	Nord	Kindertagesstätte
-37	Dahlienstraße 75 	12.30432000000000000000	51.32433000000000000000	Kita Dahlienstraße 75 	West	Kindertagesstätte
-38	Delitzscher Str. 141 	12.37880000000000000000	51.38466000000000000000	Kita Delitzscher Str. 141 	Nord	Kindertagesstätte
-39	Demmeringstraße 35 	12.33009000000000000000	51.33700000000000000000	Kita Demmeringstraße 35 	Alt-West	Kindertagesstätte
-40	Demmeringstraße  18 	12.33419000000000000000	51.33838000000000000000	Kita Demmeringstraße  18 	Alt-West	Kindertagesstätte
-41	Demmeringstraße 125 	12.31946000000000000000	51.33331000000000000000	Kita Demmeringstraße 125 	Alt-West	Kindertagesstätte
-42	Diderotstraße 13 	12.34614000000000000000	51.37084000000000000000	Kita Diderotstraße 13 	Nordwest	Kindertagesstätte
-43	Diezmannstraße 87a 	12.31075000000000000000	51.31387000000000000000	Kita Diezmannstraße 87a 	Südwest	Kindertagesstätte
-44	Dölling Straße  21 	12.44851000000000000000	51.34820000000000000000	Kita Dölling Straße  21 	Ost	Kindertagesstätte
-45	Dorfstraße 41 	12.51748000000000000000	51.30866000000000000000	Kita Dorfstraße 41 	Ost	Kindertagesstätte
-46	Eduard-von-Hartmann-Straße 29/31 	12.37950000000000000000	51.37073000000000000000	Kita Eduard-von-Hartmann-Straße 29/31 	Nord	Kindertagesstätte
-47	Eichlerstraße  10 	12.40120000000000000000	51.32794000000000000000	Kita Eichlerstraße  10 	Südost	Kindertagesstätte
-48	Eisenacher Straße 38 	12.36438000000000000000	51.36155000000000000000	Kita Eisenacher Straße 38 	Nord	Kindertagesstätte
-49	Eisenbahnstraße 52 	12.40240000000000000000	51.34580000000000000000	Kita Eisenbahnstraße 52 	Ost	Kindertagesstätte
-50	Elsbethstraße 38 	12.36276000000000000000	51.36395000000000000000	Kita Elsbethstraße 38 	Nord	Kindertagesstätte
-51	Enderststraße  32 	12.32785799999999200000	51.33350360000000000000	Kita Enderststraße  32 	Alt-West	Kindertagesstätte
-52	Engelsdorfer Straße  279 	12.48326000000000000000	51.33456000000000000000	Kita Engelsdorfer Straße  279 	Ost	Kindertagesstätte
-53	Engelsdorfer-Straße 130 	12.44532000000000000000	51.33171000000000000000	Kita Engelsdorfer-Straße 130 	Ost	Kindertagesstätte
-54	Erhardstraße 6 	12.34272000000000000000	51.31826000000000000000	Kita Erhardstraße 6 	Südwest	Kindertagesstätte
-55	Erich-Zeigner-Allee 77 a	12.33713000000000200000	51.32332000000000000000	Kita Erich-Zeigner-Allee 77 a	Südwest	Kindertagesstätte
-56	Erich-Zeigner-Allee 77 	12.33697000000000000000	51.32266000000000000000	Kita Erich-Zeigner-Allee 77 	Südwest	Kindertagesstätte
-57	Ferdinand-Rhode-Straße 17 	12.36666000000000000000	51.33046000000000000000	Kita Ferdinand-Rhode-Straße 17 	Mitte	Kindertagesstätte
-58	Ferdinand-Rhode-Straße 17 a	12.36666000000000000000	51.33046000000000000000	Kita Ferdinand-Rhode-Straße 17 a	Mitte	Kindertagesstätte
-59	Freiodaer Weg 2 	12.27376000000000000000	51.38500000000000000000	Kita Freiodaer Weg 2 	Nordwest	Kindertagesstätte
-60	Friedrich-Bosse-Straße 19 	12.33437000000000000000	51.36985000000000000000	Kita Friedrich-Bosse-Straße 19 	Nordwest	Kindertagesstätte
-61	Friedrich-Bosse-Straße 87a 	12.32585000000000000000	51.37238000000000000000	Kita Friedrich-Bosse-Straße 87a 	Nordwest	Kindertagesstätte
-62	Friedrich-Ludwig-Jahn-Straße 5 	12.25071000000000000000	51.32732000000000000000	Kita Friedrich-Ludwig-Jahn-Straße 5 	West	Kindertagesstätte
-63	Friedrichshafner Str. 21 	12.41791000000000000000	51.35412000000000000000	Kita Friedrichshafner Str. 21 	Nordost	Kindertagesstätte
-64	Friedrichshafner Straße 25 	12.40708989999996000000	51.36550510000000000000	Kita Friedrichshafner Straße 25 	Nordost	Kindertagesstätte
-65	Friedrichshafner Straße 147 	12.40502000000000000000	51.37740000000000000000	Kita Friedrichshafner Straße 147 	Nord	Kindertagesstätte
-66	Frohburger Straße  33 D	12.38116000000002300000	51.31106000000000000000	Kita Frohburger Straße  33 D	Süd	Kindertagesstätte
-67	Gabelsbergerstraße 28 	12.39611480000000000000	51.33932130000000000000	Kita Gabelsbergerstraße 28 	Mitte	Kindertagesstätte
-68	Garskestraße 17 	12.28778999999997200000	51.32586000000000000000	Kita Garskestraße 17 	West	Kindertagesstätte
-69	Georg-Große-Straße 1a 	12.47863000000000000000	51.33472000000000000000	Kita Georg-Große-Straße 1a 	Ost	Kindertagesstätte
-70	Gerhard-Ellrodt-Straße 17 a	12.32139000000000000000	51.29962000000000000000	Kita Gerhard-Ellrodt-Straße 17 a	Südwest	Kindertagesstätte
-71	Gersterstraße  9 	12.39014000000000000000	51.29490000000000000000	Kita Gersterstraße  9 	Süd	Kindertagesstätte
+23	Bernburger Straße 22 	12.39214	51.36438	Kita Bernburger Straße 22 	Nord	Kindertagesstätte
+24	Bertolt-Brecht-Straße 11 	12.42947	51.35653	Kita Bertolt-Brecht-Straße 11 	Nordost	Kindertagesstätte
+25	Biedermannstraße 23 	12.37584	51.30789	Kita Biedermannstraße 23 	Süd	Kindertagesstätte
+26	Bisamstraße 17 	12.4725052	51.3566593	Kita Bisamstraße 17 	Ost	Kindertagesstätte
+27	Bockstraße 8 	12.42694	51.30359	Kita Bockstraße 8 	Südost	Kindertagesstätte
+28	Bornaische Straße 184 	12.39239	51.28732	Kita Bornaische Straße 184 	Süd	Kindertagesstätte
+29	Bornaische Straße 138 	12.38685	51.29381	Kita Bornaische Straße 138 	Süd	Kindertagesstätte
+30	Bornaische Straße  186 c 	12.39211	51.28663	Kita Bornaische Straße  186 c 	Süd	Kindertagesstätte
+31	Bothestraße 17/19 	12.35402	51.36433	Kita Bothestraße 17/19 	Nord	Kindertagesstätte
+32	Brandiser Straße 20 	12.47453	51.32294	Kita Brandiser Straße 20 	Ost	Kindertagesstätte
+33	Breisgaustraße 21 a	12.292730000000006	51.31778	Kita Breisgaustraße 21 a	West	Kindertagesstätte
+34	Bremer Straße 17 	12.3648	51.37699	Kita Bremer Straße 17 	Nord	Kindertagesstätte
+35	Bremer Weg 17 	12.36316	51.38376	Kita Bremer Weg 17 	Nord	Kindertagesstätte
+36	Coppistraße 19 	12.38138	51.36586	Kita Coppistraße 19 	Nord	Kindertagesstätte
+37	Dahlienstraße 75 	12.30432	51.32433	Kita Dahlienstraße 75 	West	Kindertagesstätte
+38	Delitzscher Str. 141 	12.3788	51.38466	Kita Delitzscher Str. 141 	Nord	Kindertagesstätte
+39	Demmeringstraße 35 	12.33009	51.337	Kita Demmeringstraße 35 	Alt-West	Kindertagesstätte
+40	Demmeringstraße  18 	12.33419	51.33838	Kita Demmeringstraße  18 	Alt-West	Kindertagesstätte
+41	Demmeringstraße 125 	12.31946	51.33331	Kita Demmeringstraße 125 	Alt-West	Kindertagesstätte
+42	Diderotstraße 13 	12.34614	51.37084	Kita Diderotstraße 13 	Nordwest	Kindertagesstätte
+43	Diezmannstraße 87a 	12.31075	51.31387	Kita Diezmannstraße 87a 	Südwest	Kindertagesstätte
+44	Dölling Straße  21 	12.44851	51.3482	Kita Dölling Straße  21 	Ost	Kindertagesstätte
+45	Dorfstraße 41 	12.51748	51.30866	Kita Dorfstraße 41 	Ost	Kindertagesstätte
+46	Eduard-von-Hartmann-Straße 29/31 	12.3795	51.37073	Kita Eduard-von-Hartmann-Straße 29/31 	Nord	Kindertagesstätte
+47	Eichlerstraße  10 	12.4012	51.32794	Kita Eichlerstraße  10 	Südost	Kindertagesstätte
+48	Eisenacher Straße 38 	12.36438	51.36155	Kita Eisenacher Straße 38 	Nord	Kindertagesstätte
+49	Eisenbahnstraße 52 	12.4024	51.3458	Kita Eisenbahnstraße 52 	Ost	Kindertagesstätte
+50	Elsbethstraße 38 	12.36276	51.36395	Kita Elsbethstraße 38 	Nord	Kindertagesstätte
+51	Enderststraße  32 	12.327857999999992	51.3335036	Kita Enderststraße  32 	Alt-West	Kindertagesstätte
+52	Engelsdorfer Straße  279 	12.48326	51.33456	Kita Engelsdorfer Straße  279 	Ost	Kindertagesstätte
+53	Engelsdorfer-Straße 130 	12.44532	51.33171	Kita Engelsdorfer-Straße 130 	Ost	Kindertagesstätte
+54	Erhardstraße 6 	12.34272	51.31826	Kita Erhardstraße 6 	Südwest	Kindertagesstätte
+55	Erich-Zeigner-Allee 77 a	12.337130000000002	51.32332	Kita Erich-Zeigner-Allee 77 a	Südwest	Kindertagesstätte
+56	Erich-Zeigner-Allee 77 	12.33697	51.32266	Kita Erich-Zeigner-Allee 77 	Südwest	Kindertagesstätte
+57	Ferdinand-Rhode-Straße 17 	12.36666	51.33046	Kita Ferdinand-Rhode-Straße 17 	Mitte	Kindertagesstätte
+58	Ferdinand-Rhode-Straße 17 a	12.36666	51.33046	Kita Ferdinand-Rhode-Straße 17 a	Mitte	Kindertagesstätte
+59	Freiodaer Weg 2 	12.27376	51.385	Kita Freiodaer Weg 2 	Nordwest	Kindertagesstätte
+60	Friedrich-Bosse-Straße 19 	12.33437	51.36985	Kita Friedrich-Bosse-Straße 19 	Nordwest	Kindertagesstätte
+61	Friedrich-Bosse-Straße 87a 	12.32585	51.37238	Kita Friedrich-Bosse-Straße 87a 	Nordwest	Kindertagesstätte
+62	Friedrich-Ludwig-Jahn-Straße 5 	12.25071	51.32732	Kita Friedrich-Ludwig-Jahn-Straße 5 	West	Kindertagesstätte
+63	Friedrichshafner Str. 21 	12.41791	51.35412	Kita Friedrichshafner Str. 21 	Nordost	Kindertagesstätte
+64	Friedrichshafner Straße 25 	12.40708989999996	51.3655051	Kita Friedrichshafner Straße 25 	Nordost	Kindertagesstätte
+65	Friedrichshafner Straße 147 	12.40502	51.3774	Kita Friedrichshafner Straße 147 	Nord	Kindertagesstätte
+66	Frohburger Straße  33 D	12.381160000000023	51.31106	Kita Frohburger Straße  33 D	Süd	Kindertagesstätte
+67	Gabelsbergerstraße 28 	12.3961148	51.3393213	Kita Gabelsbergerstraße 28 	Mitte	Kindertagesstätte
+68	Garskestraße 17 	12.287789999999973	51.32586	Kita Garskestraße 17 	West	Kindertagesstätte
+69	Georg-Große-Straße 1a 	12.47863	51.33472	Kita Georg-Große-Straße 1a 	Ost	Kindertagesstätte
+70	Gerhard-Ellrodt-Straße 17 a	12.32139	51.29962	Kita Gerhard-Ellrodt-Straße 17 a	Südwest	Kindertagesstätte
+71	Gersterstraße  9 	12.39014	51.2949	Kita Gersterstraße  9 	Süd	Kindertagesstätte
 72	Gleisstraße 1 	0	0	Kita Gleisstraße 1 	Südwest	Kindertagesstätte
-73	Goldsternstraße  21 a	12.45573000000000000000	51.35554000000000000000	Kita Goldsternstraße  21 a	Ost	Kindertagesstätte
-74	Goldsternstraße 21 b	12.45573000000000000000	51.35554000000000000000	Kita Goldsternstraße 21 b	Ost	Kindertagesstätte
-75	Goyastraße 8 	12.35638000000000000000	51.36279000000000000000	Kita Goyastraße 8 	Nordwest	Kindertagesstätte
-76	Grünauer Allee 18 	12.30697000000000000000	51.31824000000000000000	Kita Grünauer Allee 18 	West	Kindertagesstätte
-77	Grünauer Allee 18 a	12.30697000000000000000	51.31824000000000000000	Kita Grünauer Allee 18 a	West	Kindertagesstätte
-78	Güldengossaer Straße 6 - 8 	12.45913000000000000000	51.28224000000000000000	Kita Güldengossaer Straße 6 - 8 	Südost	Kindertagesstätte
-79	Gundermannstr. 16 	12.46307000000000000000	51.35132000000000000000	Kita Gundermannstr. 16 	Ost	Kindertagesstätte
+73	Goldsternstraße  21 a	12.45573	51.35554	Kita Goldsternstraße  21 a	Ost	Kindertagesstätte
+74	Goldsternstraße 21 b	12.45573	51.35554	Kita Goldsternstraße 21 b	Ost	Kindertagesstätte
+75	Goyastraße 8 	12.35638	51.36279	Kita Goyastraße 8 	Nordwest	Kindertagesstätte
+76	Grünauer Allee 18 	12.30697	51.31824	Kita Grünauer Allee 18 	West	Kindertagesstätte
+77	Grünauer Allee 18 a	12.30697	51.31824	Kita Grünauer Allee 18 a	West	Kindertagesstätte
+78	Güldengossaer Straße 6 - 8 	12.45913	51.28224	Kita Güldengossaer Straße 6 - 8 	Südost	Kindertagesstätte
+79	Gundermannstr. 16 	12.46307	51.35132	Kita Gundermannstr. 16 	Ost	Kindertagesstätte
 80	Gundermannstr.  18 	0	0	Kita Gundermannstr.  18 	Nordost	Kindertagesstätte
-81	Gustav-Freytag-Straße 33  a	12.37084000000004300000	51.31359000000000000000	Kita Gustav-Freytag-Straße 33  a	Süd	Kindertagesstätte
-82	Hannoversche Straße 52 	12.37350000000000000000	51.37438000000000000000	Kita Hannoversche Straße 52 	Nord	Kindertagesstätte
-83	Hannoversche Straße 50 	12.37370999999996000000	51.37497000000000000000	Kita Hannoversche Straße 50 	Nord	Kindertagesstätte
-84	Hans-Beimler-Straße 17 	12.33556000000000000000	51.37235000000000000000	Kita Hans-Beimler-Straße 17 	Nordwest	Kindertagesstätte
-85	Hans-Beimler-Straße 3 	12.33783000000000000000	51.37165000000000000000	Kita Hans-Beimler-Straße 3 	Nordwest	Kindertagesstätte
-86	Hans-Marchwitza-Straße 10 	12.39935000000000000000	51.29975000000000000000	Kita Hans-Marchwitza-Straße 10 	Süd	Kindertagesstätte
+81	Gustav-Freytag-Straße 33  a	12.370840000000044	51.31359	Kita Gustav-Freytag-Straße 33  a	Süd	Kindertagesstätte
+82	Hannoversche Straße 52 	12.3735	51.37438	Kita Hannoversche Straße 52 	Nord	Kindertagesstätte
+83	Hannoversche Straße 50 	12.37370999999996	51.37497	Kita Hannoversche Straße 50 	Nord	Kindertagesstätte
+84	Hans-Beimler-Straße 17 	12.33556	51.37235	Kita Hans-Beimler-Straße 17 	Nordwest	Kindertagesstätte
+85	Hans-Beimler-Straße 3 	12.33783	51.37165	Kita Hans-Beimler-Straße 3 	Nordwest	Kindertagesstätte
+86	Hans-Marchwitza-Straße 10 	12.39935	51.29975	Kita Hans-Marchwitza-Straße 10 	Süd	Kindertagesstätte
 87	Hans-Oster-Strasse 16 	0	0	Kita Hans-Oster-Strasse 16 	Nord	Kindertagesstätte
-88	Hans-Otto-Straße 2 a	12.39385000000000000000	51.30261000000000000000	Kita Hans-Otto-Straße 2 a	Süd	Kindertagesstätte
-89	Hans-Otto-Straße 2 b	12.39385000000000000000	51.30261000000000000000	Kita Hans-Otto-Straße 2 b	Süd	Kindertagesstätte
-90	Haydnstraße  20 	12.36417250000000000000	51.32934930000000000000	Kita Haydnstraße  20 	Mitte	Kindertagesstätte
-91	Heilemannstraße  19 	12.36733900000000000000	51.31195980000000000000	Kita Heilemannstraße  19 	Süd	Kindertagesstätte
-92	Herloßsohnstraße 20 	12.35509000000000000000	51.36017000000000000000	Kita Herloßsohnstraße 20 	Nord	Kindertagesstätte
-93	Hermann-Liebmann-Straße 99 	12.40615700000000000000	51.34782630000000000000	Kita Hermann-Liebmann-Straße 99 	Ost	Kindertagesstätte
-94	Hohe Straße 21 	12.37647000000000000000	51.32914000000000000000	Kita Hohe Straße 21 	Mitte	Kindertagesstätte
-95	Holsteinstraße 62/64 	12.40687000000000000000	51.32663000000000000000	Kita Holsteinstraße 62/64 	Südost	Kindertagesstätte
-96	Holunderweg 38 	12.29138000000000000000	51.26826000000000000000	Kita Holunderweg 38 	Südwest	Kindertagesstätte
-97	Holzhäuser Str. 15 	12.41134000000000000000	51.31933000000000000000	Kita Holzhäuser Str. 15 	Südost	Kindertagesstätte
-98	Jadassohnstraße 2 	12.30724000000000000000	51.33464000000000000000	Kita Jadassohnstraße 2 	Alt-West	Kindertagesstätte
-99	Jaspisstrasse 52 	12.48236000000000000000	51.33624000000000000000	Kita Jaspisstrasse 52 	Ost	Kindertagesstätte
-100	Jörgen-Schmidtchen-Weg 4 	12.36052200000000000000	51.37995850000000000000	Kita Jörgen-Schmidtchen-Weg 4 	Nord	Kindertagesstätte
-101	Jörgen-Schmidtchen-Weg 6 	12.36111000000000000000	51.37990000000000000000	Kita Jörgen-Schmidtchen-Weg 6 	Nord	Kindertagesstätte
-102	Jupiterstraße 37 	12.26919000000000000000	51.32058000000000000000	Kita Jupiterstraße 37 	West	Kindertagesstätte
-103	Kändlerstraße 11 	12.26867000000000000000	51.31232000000000000000	Kita Kändlerstraße 11 	West	Kindertagesstätte
-104	Kantatenweg 41 b	12.33363000000000000000	51.31817000000000000000	Kita Kantatenweg 41 b	Südwest	Kindertagesstätte
-105	Kantatenweg 41 a	12.33363000000000000000	51.31817000000000000000	Kita Kantatenweg 41 a	Südwest	Kindertagesstätte
-106	Kantor-Andrä-Straße  16 	12.28806420000000000000	51.35439990000000000000	Kita Kantor-Andrä-Straße  16 	Alt-West	Kindertagesstätte
-107	Karl-Heine-Straße 34 	12.33762000000000000000	51.33260000000000000000	Kita Karl-Heine-Straße 34 	Südwest	Kindertagesstätte
-108	Karl-Mannsfeld-Straße 7-8 	12.32173000000000000000	51.38709000000000000000	Kita Karl-Mannsfeld-Straße 7-8 	Nordwest	Kindertagesstätte
-109	Kelbestraße  3 	12.45162000000000000000	51.32685000000000000000	Kita Kelbestraße  3 	Ost	Kindertagesstätte
-110	Kleiststraße 12 	12.37957000000000000000	51.36465000000000000000	Kita Kleiststraße 12 	Nord	Kindertagesstätte
+88	Hans-Otto-Straße 2 a	12.39385	51.30261	Kita Hans-Otto-Straße 2 a	Süd	Kindertagesstätte
+89	Hans-Otto-Straße 2 b	12.39385	51.30261	Kita Hans-Otto-Straße 2 b	Süd	Kindertagesstätte
+90	Haydnstraße  20 	12.3641725	51.3293493	Kita Haydnstraße  20 	Mitte	Kindertagesstätte
+91	Heilemannstraße  19 	12.367339	51.3119598	Kita Heilemannstraße  19 	Süd	Kindertagesstätte
+92	Herloßsohnstraße 20 	12.35509	51.36017	Kita Herloßsohnstraße 20 	Nord	Kindertagesstätte
+93	Hermann-Liebmann-Straße 99 	12.406157	51.3478263	Kita Hermann-Liebmann-Straße 99 	Ost	Kindertagesstätte
+94	Hohe Straße 21 	12.37647	51.32914	Kita Hohe Straße 21 	Mitte	Kindertagesstätte
+95	Holsteinstraße 62/64 	12.40687	51.32663	Kita Holsteinstraße 62/64 	Südost	Kindertagesstätte
+96	Holunderweg 38 	12.29138	51.26826	Kita Holunderweg 38 	Südwest	Kindertagesstätte
+97	Holzhäuser Str. 15 	12.41134	51.31933	Kita Holzhäuser Str. 15 	Südost	Kindertagesstätte
+98	Jadassohnstraße 2 	12.30724	51.33464	Kita Jadassohnstraße 2 	Alt-West	Kindertagesstätte
+99	Jaspisstrasse 52 	12.48236	51.33624	Kita Jaspisstrasse 52 	Ost	Kindertagesstätte
+100	Jörgen-Schmidtchen-Weg 4 	12.360522	51.3799585	Kita Jörgen-Schmidtchen-Weg 4 	Nord	Kindertagesstätte
+101	Jörgen-Schmidtchen-Weg 6 	12.36111	51.3799	Kita Jörgen-Schmidtchen-Weg 6 	Nord	Kindertagesstätte
+102	Jupiterstraße 37 	12.26919	51.32058	Kita Jupiterstraße 37 	West	Kindertagesstätte
+103	Kändlerstraße 11 	12.26867	51.31232	Kita Kändlerstraße 11 	West	Kindertagesstätte
+104	Kantatenweg 41 b	12.33363	51.31817	Kita Kantatenweg 41 b	Südwest	Kindertagesstätte
+105	Kantatenweg 41 a	12.33363	51.31817	Kita Kantatenweg 41 a	Südwest	Kindertagesstätte
+106	Kantor-Andrä-Straße  16 	12.2880642	51.3543999	Kita Kantor-Andrä-Straße  16 	Alt-West	Kindertagesstätte
+107	Karl-Heine-Straße 34 	12.33762	51.3326	Kita Karl-Heine-Straße 34 	Südwest	Kindertagesstätte
+108	Karl-Mannsfeld-Straße 7-8 	12.32173	51.38709	Kita Karl-Mannsfeld-Straße 7-8 	Nordwest	Kindertagesstätte
+109	Kelbestraße  3 	12.45162	51.32685	Kita Kelbestraße  3 	Ost	Kindertagesstätte
+110	Kleiststraße 12 	12.37957	51.36465	Kita Kleiststraße 12 	Nord	Kindertagesstätte
 111	Knautnaundorfer Straße 4 f	0	0	Kita Knautnaundorfer Straße 4 f	Südwest	Kindertagesstätte
-112	Koehlerstraße  7 	12.40365000000000000000	51.33960000000000000000	Kita Koehlerstraße  7 	Ost	Kindertagesstätte
+112	Koehlerstraße  7 	12.40365	51.3396	Kita Koehlerstraße  7 	Ost	Kindertagesstätte
 113	Kohlgartenweg 3 	0	0	Kita Kohlgartenweg 3 	Ost	Kindertagesstätte
-114	Königsteinstraße 70 	12.26524720000000000000	51.30554270000000000000	Kita Königsteinstraße 70 	West	Kindertagesstätte
-115	Königsteinstraße 72 	12.26437000000000000000	51.30550000000000000000	Kita Königsteinstraße 72 	West	Kindertagesstätte
+114	Königsteinstraße 70 	12.2652472	51.3055427	Kita Königsteinstraße 70 	West	Kindertagesstätte
+115	Königsteinstraße 72 	12.26437	51.3055	Kita Königsteinstraße 72 	West	Kindertagesstätte
 116	Könneritzstraße 47 	0	0	Kita Könneritzstraße 47 	Südwest	Kindertagesstätte
-117	Konradstraße 70-72 	12.41173000000000000000	51.34420000000000000000	Kita Konradstraße 70-72 	Ost	Kindertagesstätte
-118	Krönerstraße 43/45 	12.41636000000000000000	51.33970000000000000000	Kita Krönerstraße 43/45 	Ost	Kindertagesstätte
-119	Kunzestraße 4 	12.32880000000000000000	51.30503000000000000000	Kita Kunzestraße 4 	Südwest	Kindertagesstätte
-120	Kunzestraße 6 	12.32964000000000000000	51.30515000000000000000	Kita Kunzestraße 6 	Südwest	Kindertagesstätte
-121	Kurt-Tucholsky-Straße 12 	12.40336000000002000000	51.30185000000000000000	Kita Kurt-Tucholsky-Straße 12 	Südost	Kindertagesstätte
-122	Lange Straße 23 	12.39353000000000000000	51.34160000000000000000	Kita Lange Straße 23 	Mitte	Kindertagesstätte
-123	Leipziger Straße 21 	12.29866000000000000000	51.35613000000000000000	Kita Leipziger Straße 21 	Alt-West	Kindertagesstätte
-124	Leonhard-Frank-Straße 24b 	12.42920000000000000000	51.34931000000000000000	Kita Leonhard-Frank-Straße 24b 	Ost	Kindertagesstätte
-125	Lerchenrain 14-16 	12.40204000000000000000	51.30883000000000000000	Kita Lerchenrain 14-16 	Süd	Kindertagesstätte
-126	Lichtenbergweg 3 	12.41096000000000000000	51.32024000000000000000	Kita Lichtenbergweg 3 	Südost	Kindertagesstätte
-127	Liebigstraße 22 b 	12.38970000000000000000	51.33120000000000000000	Kita Liebigstraße 22 b 	Mitte	Kindertagesstätte
-128	Lindenallee 3 a	12.34059000000000000000	51.40378000000000000000	Kita Lindenallee 3 a	Nordwest	Kindertagesstätte
-129	Lindenstraße 54 	12.37880000000000000000	51.39743000000000000000	Kita Lindenstraße 54 	Nord	Kindertagesstätte
-130	Linnéstraße 12 	12.39243000000000000000	51.32602000000000000000	Kita Linnéstraße 12 	Mitte	Kindertagesstätte
-131	Lobstädter Str.  14 	12.38911000000000000000	51.29802000000000000000	Kita Lobstädter Str.  14 	Süd	Kindertagesstätte
-132	Löhrstraße 9 	12.37322000000000000000	51.34571000000000000000	Kita Löhrstraße 9 	Mitte	Kindertagesstätte
-133	Lößniger Straße 8 	12.38063409999995200000	51.32551429999999000000	Kita Lößniger Straße 8 	Mitte	Kindertagesstätte
-134	Louis-Fürnberg-Straße 19 	12.42648000000000000000	51.34855000000000000000	Kita Louis-Fürnberg-Straße 19 	Südost	Kindertagesstätte
-135	Louis-Fürnberg-Straße 21 	12.42658000000000000000	51.34847000000000000000	Kita Louis-Fürnberg-Straße 21 	Südost	Kindertagesstätte
-136	Marschnerstraße 21 	12.35606000000000000000	51.33669000000000000000	Kita Marschnerstraße 21 	Mitte	Kindertagesstätte
-137	Meininger Ring 41 	12.26894000000000000000	51.31947000000000000000	Kita Meininger Ring 41 	Nordwest	Kindertagesstätte
-138	Meusdorfer Straße 47 b	12.37844110000000000000	51.30577090000000000000	Kita Meusdorfer Straße 47 b	Süd	Kindertagesstätte
-139	Mothesstraße 2 	12.38379000000000000000	51.37316000000000000000	Kita Mothesstraße 2 	Nord	Kindertagesstätte
-140	Naunhofer Straße 31 	12.41496000000000000000	51.31691000000000000000	Kita Naunhofer Straße 31 	Südost	Kindertagesstätte
-141	Neptunweg  29a 	12.26910000000000000000	51.32442000000000000000	Kita Neptunweg  29a 	West	Kindertagesstätte
-142	Neue Leipziger Straße 37 a	12.26542000000000000000	51.31985000000000000000	Kita Neue Leipziger Straße 37 a	West	Kindertagesstätte
-143	Neue Leipziger Straße 39 a	12.26482999999996000000	51.32024000000001000000	Kita Neue Leipziger Straße 39 a	West	Kindertagesstätte
-144	Nordplatz 14 	12.37468500000000000000	51.35306140000000000000	Kita Nordplatz 14 	Mitte	Kindertagesstätte
-145	Nordstraße 43 a/b	12.37390000000000000000	51.35002000000000000000	Kita Nordstraße 43 a/b	Mitte	Kindertagesstätte
-146	Nordweg  9 	12.37535000000000000000	51.39477000000000000000	Kita Nordweg  9 	Nord	Kindertagesstätte
-147	Odermannstraße 4 	12.33249000000000000000	51.33730000000000000000	Kita Odermannstraße 4 	Alt-West	Kindertagesstätte
-148	Oststraße  128 	12.41837880000002700000	51.32736030000000000000	Kita Oststraße  128 	Südost	Kindertagesstätte
-149	Oststraße 185 	12.42175000000000000000	51.32342000000000000000	Kita Oststraße 185 	Südost	Kindertagesstätte
-150	Palmstraße 4 	12.41173000000000000000	51.32921000000000000000	Kita Palmstraße 4 	Südost	Kindertagesstätte
+117	Konradstraße 70-72 	12.41173	51.3442	Kita Konradstraße 70-72 	Ost	Kindertagesstätte
+118	Krönerstraße 43/45 	12.41636	51.3397	Kita Krönerstraße 43/45 	Ost	Kindertagesstätte
+119	Kunzestraße 4 	12.3288	51.30503	Kita Kunzestraße 4 	Südwest	Kindertagesstätte
+120	Kunzestraße 6 	12.32964	51.30515	Kita Kunzestraße 6 	Südwest	Kindertagesstätte
+121	Kurt-Tucholsky-Straße 12 	12.40336000000002	51.30185	Kita Kurt-Tucholsky-Straße 12 	Südost	Kindertagesstätte
+122	Lange Straße 23 	12.39353	51.3416	Kita Lange Straße 23 	Mitte	Kindertagesstätte
+123	Leipziger Straße 21 	12.29866	51.35613	Kita Leipziger Straße 21 	Alt-West	Kindertagesstätte
+124	Leonhard-Frank-Straße 24b 	12.4292	51.34931	Kita Leonhard-Frank-Straße 24b 	Ost	Kindertagesstätte
+125	Lerchenrain 14-16 	12.40204	51.30883	Kita Lerchenrain 14-16 	Süd	Kindertagesstätte
+126	Lichtenbergweg 3 	12.41096	51.32024	Kita Lichtenbergweg 3 	Südost	Kindertagesstätte
+127	Liebigstraße 22 b 	12.3897	51.3312	Kita Liebigstraße 22 b 	Mitte	Kindertagesstätte
+128	Lindenallee 3 a	12.34059	51.40378	Kita Lindenallee 3 a	Nordwest	Kindertagesstätte
+129	Lindenstraße 54 	12.3788	51.39743	Kita Lindenstraße 54 	Nord	Kindertagesstätte
+130	Linnéstraße 12 	12.39243	51.32602	Kita Linnéstraße 12 	Mitte	Kindertagesstätte
+131	Lobstädter Str.  14 	12.38911	51.29802	Kita Lobstädter Str.  14 	Süd	Kindertagesstätte
+132	Löhrstraße 9 	12.37322	51.34571	Kita Löhrstraße 9 	Mitte	Kindertagesstätte
+133	Lößniger Straße 8 	12.380634099999952	51.32551429999999	Kita Lößniger Straße 8 	Mitte	Kindertagesstätte
+134	Louis-Fürnberg-Straße 19 	12.42648	51.34855	Kita Louis-Fürnberg-Straße 19 	Südost	Kindertagesstätte
+135	Louis-Fürnberg-Straße 21 	12.42658	51.34847	Kita Louis-Fürnberg-Straße 21 	Südost	Kindertagesstätte
+136	Marschnerstraße 21 	12.35606	51.33669	Kita Marschnerstraße 21 	Mitte	Kindertagesstätte
+137	Meininger Ring 41 	12.26894	51.31947	Kita Meininger Ring 41 	Nordwest	Kindertagesstätte
+138	Meusdorfer Straße 47 b	12.3784411	51.3057709	Kita Meusdorfer Straße 47 b	Süd	Kindertagesstätte
+139	Mothesstraße 2 	12.38379	51.37316	Kita Mothesstraße 2 	Nord	Kindertagesstätte
+140	Naunhofer Straße 31 	12.41496	51.31691	Kita Naunhofer Straße 31 	Südost	Kindertagesstätte
+141	Neptunweg  29a 	12.2691	51.32442	Kita Neptunweg  29a 	West	Kindertagesstätte
+142	Neue Leipziger Straße 37 a	12.26542	51.31985	Kita Neue Leipziger Straße 37 a	West	Kindertagesstätte
+143	Neue Leipziger Straße 39 a	12.26482999999996	51.32024000000001	Kita Neue Leipziger Straße 39 a	West	Kindertagesstätte
+144	Nordplatz 14 	12.374685	51.3530614	Kita Nordplatz 14 	Mitte	Kindertagesstätte
+145	Nordstraße 43 a/b	12.3739	51.35002	Kita Nordstraße 43 a/b	Mitte	Kindertagesstätte
+146	Nordweg  9 	12.37535	51.39477	Kita Nordweg  9 	Nord	Kindertagesstätte
+147	Odermannstraße 4 	12.33249	51.3373	Kita Odermannstraße 4 	Alt-West	Kindertagesstätte
+148	Oststraße  128 	12.418378800000028	51.3273603	Kita Oststraße  128 	Südost	Kindertagesstätte
+149	Oststraße 185 	12.42175	51.32342	Kita Oststraße 185 	Südost	Kindertagesstätte
+150	Palmstraße 4 	12.41173	51.32921	Kita Palmstraße 4 	Südost	Kindertagesstätte
 151	Paul-List-Straße 11 c 	0	0	Kita Paul-List-Straße 11 c 	Mitte	Kindertagesstätte
-152	Paul-Michael-Str. 15 	12.31480000000000000000	51.35303000000000000000	Kita Paul-Michael-Str. 15 	Alt-West	Kindertagesstätte
-153	Pistorisstraße 10 	12.34227000000000000000	51.31567000000000000000	Kita Pistorisstraße 10 	Südwest	Kindertagesstätte
-154	Platnerstraße 11 	12.36073310000006100000	51.35878920000000000000	Kita Platnerstraße 11 	Nord	Kindertagesstätte
-155	Poetenweg 22 	12.36595000000000000000	51.35654000000000000000	Kita Poetenweg 22 	Nord	Kindertagesstätte
-156	Poserstraße 55 	12.42545000000000000000	51.35373000000000000000	Kita Poserstraße 55 	Nordost	Kindertagesstätte
-157	Prager Straße 224 	12.42099000000000000000	51.30781000000000000000	Kita Prager Straße 224 	Südost	Kindertagesstätte
-158	Raschwitzer Str. 4 	12.38367540000001600000	51.29501440000000000000	Kita Raschwitzer Str. 4 	Süd	Kindertagesstätte
-159	Raschwitzer Straße 15 	12.38396000000000000000	51.29487000000000000000	Kita Raschwitzer Straße 15 	Süd	Kindertagesstätte
-160	Rathenaustraße 21 	12.31444000000000000000	51.35497000000000000000	Kita Rathenaustraße 21 	Alt-West	Kindertagesstätte
-161	Reichelstr. 3 	12.36791810000000000000	51.33754760000000000000	Kita Reichelstr. 3 	Mitte	Kindertagesstätte
-162	Reichelstraße 3-5 	12.36791810000000000000	51.33754760000000000000	Kita Reichelstraße 3-5 	Mitte	Kindertagesstätte
-163	Richard-Lehmann-Str. 30 A	12.37092000000000000000	51.31449000000000000000	Kita Richard-Lehmann-Str. 30 A	Süd	Kindertagesstätte
-164	Rietschelstraße 12 	12.33283000000000000000	51.33959000000000000000	Kita Rietschelstraße 12 	Alt-West	Kindertagesstätte
-165	Rietschelstraße 52 	12.32468790000007200000	51.34555820000000000000	Kita Rietschelstraße 52 	Alt-West	Kindertagesstätte
-166	Ringstraße  213 	12.29386000000000000000	51.31569000000000000000	Kita Ringstraße  213 	West	Kindertagesstätte
+152	Paul-Michael-Str. 15 	12.3148	51.35303	Kita Paul-Michael-Str. 15 	Alt-West	Kindertagesstätte
+153	Pistorisstraße 10 	12.34227	51.31567	Kita Pistorisstraße 10 	Südwest	Kindertagesstätte
+154	Platnerstraße 11 	12.360733100000061	51.3587892	Kita Platnerstraße 11 	Nord	Kindertagesstätte
+155	Poetenweg 22 	12.36595	51.35654	Kita Poetenweg 22 	Nord	Kindertagesstätte
+156	Poserstraße 55 	12.42545	51.35373	Kita Poserstraße 55 	Nordost	Kindertagesstätte
+157	Prager Straße 224 	12.42099	51.30781	Kita Prager Straße 224 	Südost	Kindertagesstätte
+158	Raschwitzer Str. 4 	12.383675400000016	51.2950144	Kita Raschwitzer Str. 4 	Süd	Kindertagesstätte
+159	Raschwitzer Straße 15 	12.38396	51.29487	Kita Raschwitzer Straße 15 	Süd	Kindertagesstätte
+160	Rathenaustraße 21 	12.31444	51.35497	Kita Rathenaustraße 21 	Alt-West	Kindertagesstätte
+161	Reichelstr. 3 	12.3679181	51.3375476	Kita Reichelstr. 3 	Mitte	Kindertagesstätte
+162	Reichelstraße 3-5 	12.3679181	51.3375476	Kita Reichelstraße 3-5 	Mitte	Kindertagesstätte
+163	Richard-Lehmann-Str. 30 A	12.37092	51.31449	Kita Richard-Lehmann-Str. 30 A	Süd	Kindertagesstätte
+164	Rietschelstraße 12 	12.33283	51.33959	Kita Rietschelstraße 12 	Alt-West	Kindertagesstätte
+165	Rietschelstraße 52 	12.324687900000072	51.3455582	Kita Rietschelstraße 52 	Alt-West	Kindertagesstätte
+166	Ringstraße  213 	12.29386	51.31569	Kita Ringstraße  213 	West	Kindertagesstätte
 167	Roßmarktstraße 6 	0	0	Kita Roßmarktstraße 6 	Alt-West	Kindertagesstätte
 168	Rudolph-Sack-Straße 12 	0	0	Kita Rudolph-Sack-Straße 12 	Südwest	Kindertagesstätte
-169	Russenstraße 135 	12.44936000000000000000	51.30413000000000000000	Kita Russenstraße 135 	Südost	Kindertagesstätte
-170	Salomonstraße 10 	12.39086729999996800000	51.33972030000000000000	Kita Salomonstraße 10 	Mitte	Kindertagesstätte
-171	Samuel-Lampel-Straße 2 	12.42013000000000000000	51.37754000000000000000	Kita Samuel-Lampel-Straße 2 	Nordost	Kindertagesstätte
-172	Schenkendorfstraße 30 	12.37464000000000000000	51.32415000000000000000	Kita Schenkendorfstraße 30 	Süd	Kindertagesstätte
-173	Schenkendorfstraße 10 	12.37125930000000000000	51.32434650000000000000	Kita Schenkendorfstraße 10 	Süd	Kindertagesstätte
-174	Schönauer Ring 23 	12.28691000000000000000	51.32838000000000000000	Kita Schönauer Ring 23 	West	Kindertagesstätte
-175	Schönbachstraße 63 	12.41310000000000000000	51.32220000000000000000	Kita Schönbachstraße 63 	Südost	Kindertagesstätte
-176	Schönefelder Allee 23 a	12.40533000000000000000	51.35729000000000000000	Kita Schönefelder Allee 23 a	Nordost	Kindertagesstätte
-177	Schröderstraße 1 	12.26340000000000000000	51.35661000000000000000	Kita Schröderstraße 1 	Alt-West	Kindertagesstätte
-178	Schulzeweg 11 	12.41743000000000000000	51.35322000000000000000	Kita Schulzeweg 11 	Nordost	Kindertagesstätte
-179	Schützstraße 2 	12.32063000000000000000	51.35304000000000000000	Kita Schützstraße 2 	Alt-West	Kindertagesstätte
-180	Sebastian-Bach-Straße 1 a	12.36131000000000000000	51.33705000000000000000	Kita Sebastian-Bach-Straße 1 a	Mitte	Kindertagesstätte
-181	Seidelstraße 1/3 	12.43106999999997700000	51.29775710000000000000	Kita Seidelstraße 1/3 	Südost	Kindertagesstätte
-182	Seipelweg 16 b	12.41791000000000000000	51.35412000000000000000	Kita Seipelweg 16 b	Nordost	Kindertagesstätte
-183	Seitengasse 2 	12.38543000000000000000	51.36754000000000000000	Kita Seitengasse 2 	Nord	Kindertagesstätte
-184	Seumestraße 99 	12.31180000000000000000	51.27823000000000000000	Kita Seumestraße 99 	Südwest	Kindertagesstätte
-185	Sommerfelder Straße 29 	12.42750000000000000000	51.32093000000000000000	Kita Sommerfelder Straße 29 	Südost	Kindertagesstätte
-186	Sophie-Scholl-Straße 6 	12.43892000000000000000	51.32677000000000000000	Kita Sophie-Scholl-Straße 6 	Ost	Kindertagesstätte
-187	Spinnereistraße 8 	12.31809000000000000000	51.32720000000000000000	Kita Spinnereistraße 8 	Alt-West	Kindertagesstätte
-188	Spinnereistraße 10 	12.31771000000000000000	51.32771000000000000000	Kita Spinnereistraße 10 	Alt-West	Kindertagesstätte
-189	Spittastraße 7 	12.32510000000000000000	51.34019000000000000000	Kita Spittastraße 7 	Alt-West	Kindertagesstätte
-190	Sternwartenstraße 30 a/b	12.38492000000000000000	51.33369000000000000000	Kita Sternwartenstraße 30 a/b	Mitte	Kindertagesstätte
-191	Stollberger Straße 8 	12.43344000000000000000	51.37855000000000000000	Kita Stollberger Straße 8 	Nordost	Kindertagesstätte
-192	Stötteritzer Straße 1 	12.40032000000000000000	51.32931000000000000000	Kita Stötteritzer Straße 1 	Südost	Kindertagesstätte
-193	Südblick 5 	12.45565000000000000000	51.35113000000000000000	Kita Südblick 5 	Südost	Kindertagesstätte
-194	Tarostraße 7 	12.38702000000000000000	51.32428000000000000000	Kita Tarostraße 7 	Mitte	Kindertagesstätte
-195	Tarostraße 9 	12.38740000000000000000	51.32471000000000000000	Kita Tarostraße 9 	Mitte	Kindertagesstätte
-196	Tarostraße 17-19 	12.38830800000000000000	51.32327700000000000000	Kita Tarostraße 17-19 	Mitte	Kindertagesstätte
-197	Täubchenweg 30 	12.40165000000000000000	51.33566000000000000000	Kita Täubchenweg 30 	Südost	Kindertagesstätte
-198	Theodor-Neubauer-Straße 18 	12.41350000000000000000	51.33533000000000000000	Kita Theodor-Neubauer-Straße 18 	Ost	Kindertagesstätte
+169	Russenstraße 135 	12.44936	51.30413	Kita Russenstraße 135 	Südost	Kindertagesstätte
+170	Salomonstraße 10 	12.390867299999968	51.3397203	Kita Salomonstraße 10 	Mitte	Kindertagesstätte
+171	Samuel-Lampel-Straße 2 	12.42013	51.37754	Kita Samuel-Lampel-Straße 2 	Nordost	Kindertagesstätte
+172	Schenkendorfstraße 30 	12.37464	51.32415	Kita Schenkendorfstraße 30 	Süd	Kindertagesstätte
+173	Schenkendorfstraße 10 	12.3712593	51.3243465	Kita Schenkendorfstraße 10 	Süd	Kindertagesstätte
+174	Schönauer Ring 23 	12.28691	51.32838	Kita Schönauer Ring 23 	West	Kindertagesstätte
+175	Schönbachstraße 63 	12.4131	51.3222	Kita Schönbachstraße 63 	Südost	Kindertagesstätte
+176	Schönefelder Allee 23 a	12.40533	51.35729	Kita Schönefelder Allee 23 a	Nordost	Kindertagesstätte
+177	Schröderstraße 1 	12.2634	51.35661	Kita Schröderstraße 1 	Alt-West	Kindertagesstätte
+178	Schulzeweg 11 	12.41743	51.35322	Kita Schulzeweg 11 	Nordost	Kindertagesstätte
+179	Schützstraße 2 	12.32063	51.35304	Kita Schützstraße 2 	Alt-West	Kindertagesstätte
+180	Sebastian-Bach-Straße 1 a	12.36131	51.33705	Kita Sebastian-Bach-Straße 1 a	Mitte	Kindertagesstätte
+181	Seidelstraße 1/3 	12.431069999999977	51.2977571	Kita Seidelstraße 1/3 	Südost	Kindertagesstätte
+182	Seipelweg 16 b	12.41791	51.35412	Kita Seipelweg 16 b	Nordost	Kindertagesstätte
+183	Seitengasse 2 	12.38543	51.36754	Kita Seitengasse 2 	Nord	Kindertagesstätte
+184	Seumestraße 99 	12.3118	51.27823	Kita Seumestraße 99 	Südwest	Kindertagesstätte
+185	Sommerfelder Straße 29 	12.4275	51.32093	Kita Sommerfelder Straße 29 	Südost	Kindertagesstätte
+186	Sophie-Scholl-Straße 6 	12.43892	51.32677	Kita Sophie-Scholl-Straße 6 	Ost	Kindertagesstätte
+187	Spinnereistraße 8 	12.31809	51.3272	Kita Spinnereistraße 8 	Alt-West	Kindertagesstätte
+188	Spinnereistraße 10 	12.31771	51.32771	Kita Spinnereistraße 10 	Alt-West	Kindertagesstätte
+189	Spittastraße 7 	12.3251	51.34019	Kita Spittastraße 7 	Alt-West	Kindertagesstätte
+190	Sternwartenstraße 30 a/b	12.38492	51.33369	Kita Sternwartenstraße 30 a/b	Mitte	Kindertagesstätte
+191	Stollberger Straße 8 	12.43344	51.37855	Kita Stollberger Straße 8 	Nordost	Kindertagesstätte
+192	Stötteritzer Straße 1 	12.40032	51.32931	Kita Stötteritzer Straße 1 	Südost	Kindertagesstätte
+193	Südblick 5 	12.45565	51.35113	Kita Südblick 5 	Südost	Kindertagesstätte
+194	Tarostraße 7 	12.38702	51.32428	Kita Tarostraße 7 	Mitte	Kindertagesstätte
+195	Tarostraße 9 	12.3874	51.32471	Kita Tarostraße 9 	Mitte	Kindertagesstätte
+196	Tarostraße 17-19 	12.388308	51.323277	Kita Tarostraße 17-19 	Mitte	Kindertagesstätte
+197	Täubchenweg 30 	12.40165	51.33566	Kita Täubchenweg 30 	Südost	Kindertagesstätte
+198	Theodor-Neubauer-Straße 18 	12.4135	51.33533	Kita Theodor-Neubauer-Straße 18 	Ost	Kindertagesstätte
 199	Thietmarstraße 13 	0	0	Kita Thietmarstraße 13 	Alt-West	Kindertagesstätte
-200	Thünenstraße 2 	12.39481000000000000000	51.36912000000000000000	Kita Thünenstraße 2 	Nord	Kindertagesstätte
-201	Tschaikowskistrasse 28 	12.36030000000000000000	51.34620000000000000000	Kita Tschaikowskistrasse 28 	Mitte	Kindertagesstätte
-202	Vollhardtstraße 16 	12.38815000000000000000	51.28914000000000000000	Kita Vollhardtstraße 16 	Süd	Kindertagesstätte
-203	Waldkerbelstraße 2 	12.45940000000000000000	51.35869000000000000000	Kita Waldkerbelstraße 2 	Ost	Kindertagesstätte
-204	Waldrebenweg 9 	12.48309800000000000000	51.34873670000000000000	Kita Waldrebenweg 9 	Ost	Kindertagesstätte
-205	Walter-Heinze-Straße 22 	12.33503000000000000000	51.33027000000000000000	Kita Walter-Heinze-Straße 22 	Südwest	Kindertagesstätte
-206	Weißdornstraße  2 	12.29445000000000000000	51.32182000000000000000	Kita Weißdornstraße  2 	West	Kindertagesstätte
-207	Wiesenstraße 18 	12.46526000000000000000	51.35638000000000000000	Kita Wiesenstraße 18 	Ost	Kindertagesstätte
-208	Wilhelm-Sammet-Str. 4 	12.38072000000000000000	51.36188000000000000000	Kita Wilhelm-Sammet-Str. 4 	Nord	Kindertagesstätte
-209	William-Zipperer-Straße 149 	12.31317000000000000000	51.34889000000000000000	Kita William-Zipperer-Straße 149 	Alt-West	Kindertagesstätte
-210	Willmar-Schwabe-Straße 4 	12.35762000000000000000	51.34168000000000000000	Kita Willmar-Schwabe-Straße 4 	Mitte	Kindertagesstätte
-211	Windscheidstraße 32 	12.36868000000000000000	51.31087000000000000000	Kita Windscheidstraße 32 	Süd	Kindertagesstätte
-212	Wurzner Straße 122 	12.41821280000000000000	51.34383160000000000000	Kita Wurzner Straße 122 	Ost	Kindertagesstätte
-213	Yorckstraße  43 b	12.34357000000000000000	51.37001000000000000000	Kita Yorckstraße  43 b	Nordwest	Kindertagesstätte
-214	Yorckstraße  43 a	12.34357000000000000000	51.37001000000000000000	Kita Yorckstraße  43 a	Nordwest	Kindertagesstätte
-215	Zeumer Straße 5 	12.40720000000000000000	51.35799000000000000000	Kita Zeumer Straße 5 	Ost	Kindertagesstätte
-216	Zeumerstraße 1 	12.40607000000000000000	51.35943000000000000000	Kita Zeumerstraße 1 	Nordost	Kindertagesstätte
-217	Zingster Straße 02 	12.25992380000000000000	51.31066250000000000000	Kita Zingster Straße 02 	West	Kindertagesstätte
-218	Zittauer Straße 2 a	12.41429000000000000000	51.35575000000000000000	Kita Zittauer Straße 2 a	Nordost	Kindertagesstätte
-219	Zum Kleingartenpark  15 	12.42345999999997700000	51.34256000000000000000	Kita Zum Kleingartenpark  15 	Ost	Kindertagesstätte
-220	Zur Schule  10 	12.37274700000000000000	51.39337450000000000000	Kita Zur Schule  10 	Nord	Kindertagesstätte
-221	Zweinauendorfer Straße 167 	12.44172000000000000000	51.32713000000000000000	Kita Zweinauendorfer Straße 167 	Ost	Kindertagesstätte
+200	Thünenstraße 2 	12.39481	51.36912	Kita Thünenstraße 2 	Nord	Kindertagesstätte
+201	Tschaikowskistrasse 28 	12.3603	51.3462	Kita Tschaikowskistrasse 28 	Mitte	Kindertagesstätte
+202	Vollhardtstraße 16 	12.38815	51.28914	Kita Vollhardtstraße 16 	Süd	Kindertagesstätte
+203	Waldkerbelstraße 2 	12.4594	51.35869	Kita Waldkerbelstraße 2 	Ost	Kindertagesstätte
+204	Waldrebenweg 9 	12.483098	51.3487367	Kita Waldrebenweg 9 	Ost	Kindertagesstätte
+205	Walter-Heinze-Straße 22 	12.33503	51.33027	Kita Walter-Heinze-Straße 22 	Südwest	Kindertagesstätte
+206	Weißdornstraße  2 	12.29445	51.32182	Kita Weißdornstraße  2 	West	Kindertagesstätte
+207	Wiesenstraße 18 	12.46526	51.35638	Kita Wiesenstraße 18 	Ost	Kindertagesstätte
+208	Wilhelm-Sammet-Str. 4 	12.38072	51.36188	Kita Wilhelm-Sammet-Str. 4 	Nord	Kindertagesstätte
+209	William-Zipperer-Straße 149 	12.31317	51.34889	Kita William-Zipperer-Straße 149 	Alt-West	Kindertagesstätte
+210	Willmar-Schwabe-Straße 4 	12.35762	51.34168	Kita Willmar-Schwabe-Straße 4 	Mitte	Kindertagesstätte
+211	Windscheidstraße 32 	12.36868	51.31087	Kita Windscheidstraße 32 	Süd	Kindertagesstätte
+212	Wurzner Straße 122 	12.4182128	51.3438316	Kita Wurzner Straße 122 	Ost	Kindertagesstätte
+213	Yorckstraße  43 b	12.34357	51.37001	Kita Yorckstraße  43 b	Nordwest	Kindertagesstätte
+214	Yorckstraße  43 a	12.34357	51.37001	Kita Yorckstraße  43 a	Nordwest	Kindertagesstätte
+215	Zeumer Straße 5 	12.4072	51.35799	Kita Zeumer Straße 5 	Ost	Kindertagesstätte
+216	Zeumerstraße 1 	12.40607	51.35943	Kita Zeumerstraße 1 	Nordost	Kindertagesstätte
+217	Zingster Straße 02 	12.2599238	51.3106625	Kita Zingster Straße 02 	West	Kindertagesstätte
+218	Zittauer Straße 2 a	12.41429	51.35575	Kita Zittauer Straße 2 a	Nordost	Kindertagesstätte
+219	Zum Kleingartenpark  15 	12.423459999999977	51.34256	Kita Zum Kleingartenpark  15 	Ost	Kindertagesstätte
+220	Zur Schule  10 	12.372747	51.3933745	Kita Zur Schule  10 	Nord	Kindertagesstätte
+221	Zweinauendorfer Straße 167 	12.44172	51.32713	Kita Zweinauendorfer Straße 167 	Ost	Kindertagesstätte
 222	  	0	0	1	Nordost	Tagesmutter
 223	  	0	0	2	Nordost	Tagesmutter
 224	  	0	0	3	Nordost	Tagesmutter
@@ -240,7 +240,7 @@ id	address	lon	lat	name	district	type
 239	  	0	0	OUTLAW-MER	Südwest	Tagesmutter
 240	  	0	0	OUTLAW-ORT	Nordwest	Tagesmutter
 241	  	0	0	OUTLAW-SCHM	Südwest	Tagesmutter
-242	Demmeringstraße 157 	12.29548000000000000000	51.36031000000000000000	OUTLAW-WÖC	Alt-West	Tagesmutter
+242	Demmeringstraße 157 	12.29548	51.36031	OUTLAW-WÖC	Alt-West	Tagesmutter
 243	  	0	0	Rahn01	West	Tagesmutter
 244	  	0	0	Rahn02	Nordost	Tagesmutter
 245	  	0	0	Rahn03	Nord	Tagesmutter
