@@ -1,0 +1,985 @@
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ld: <http://leipzig-data.de/Data/Model/> .
+@prefix ldot: <http://leipzig-data.de/Data/Ortsteil/> .
+@prefix cc: <http://creativecommons.org/ns#> .
+
+<> a owl:Ontology .
+
+ld:Wahlbezirk
+    a owl:Class ;
+    rdfs:label "Wahlbezirk der Stadt Leipzig" .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0019>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0019"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1360>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1360"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0109>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0109"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1401>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1401"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0129>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0129"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1410>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1410"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0200>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0200"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1421>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1421"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0211>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0211"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1439>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1439"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0212>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0212"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1500>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1500"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0220>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0220"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1510>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1510"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0230>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0230"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1520>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1520"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0241>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0241"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2009>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2009"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0301>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0301"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2020>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2020"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0310>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0310"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2039>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2039"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0320>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0320"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2059>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2059"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0338>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0338"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2069>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2069"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0339>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0339"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2109>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2109"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0341>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0341"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2139>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2139"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0359>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0359"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2141>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2141"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0400>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0400"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2149>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2149"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0419>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0419"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2201>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2201"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0421>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0421"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2219>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2219"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0429>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0429"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2221>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2221"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0449>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0449"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2231>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2231"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0501>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0501"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2249>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2249"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0519>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0519"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2309>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2309"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0521>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0521"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2311>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2311"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0530>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0530"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2321>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2321"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0549>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0549"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2330>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2330"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0601>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0601"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2340>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2340"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0609>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0609"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2401>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2401"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0619>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0619"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2402>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2402"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/0621>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 0621"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2410>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2410"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1009>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1009"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2420>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2420"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1029>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1029"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2439>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2439"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1030>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1030"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2459>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2459"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1059>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1059"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2471>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2471"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1061>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1061"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2489>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2489"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1079>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1079"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2509>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2509"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1109>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1109"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2511>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2511"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1119>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1119"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2512>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2512"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1129>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1129"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2601>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2601"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1149>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1149"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2609>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2609"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1159>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1159"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2619>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2619"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1169>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1169"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2629>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2629"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1209>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1209"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2701>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2701"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1211>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1211"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2709>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2709"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1220>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1220"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2711>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2711"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1301>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1301"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2712>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2712"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1319>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1319"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2729>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2729"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1321>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1321"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2731>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2731"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1339>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1339"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2809>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2809"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1341>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1341"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2900>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2900"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/1359>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 1359"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/2919>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 2919"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3001>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3001"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4131>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4131"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3009>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3009"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4132>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4132"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3019>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3019"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4141>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4141"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3021>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3021"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4149>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4149"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3039>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3039"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4159>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4159"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3049>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3049"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4201>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4201"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3059>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3059"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4209>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4209"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3060>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3060"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4210>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4210"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3071>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3071"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4221>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4221"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3089>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3089"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4309>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4309"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3101>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3101"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4329>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4329"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3119>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3119"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4330>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4330"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3129>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3129"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4349>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4349"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3130>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3130"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4359>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4359"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3140>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3140"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4369>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4369"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3151>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3151"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4401>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4401"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3161>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3161"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4402>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4402"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3168>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3168"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4410>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4410"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3169>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3169"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5007>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5007"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3209>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3209"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5008>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5008"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3211>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3211"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5009>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5009"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3219>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3219"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5019>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5019"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3229>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3229"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5029>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5029"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3301>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3301"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5039>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5039"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3319>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3319"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5048>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5048"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3409>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3409"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5049>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5049"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3419>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3419"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5109>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5109"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3439>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3439"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5119>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5119"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3509>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3509"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5121>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5121"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3519>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3519"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5122>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5122"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3521>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3521"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5129>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5129"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/3529>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 3529"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5139>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5139"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4001>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4001"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5140>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5140"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4009>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4009"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5209>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5209"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4011>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4011"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5211>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5211"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4019>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4019"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5219>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5219"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4029>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4029"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5221>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5221"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4031>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4031"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5249>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5249"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4039>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4039"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5259>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5259"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4040>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4040"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5301>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5301"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4051>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4051"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5309>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5309"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4069>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4069"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5311>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5311"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4079>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4079"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5319>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5319"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4089>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4089"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5329>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5329"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4098>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4098"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5339>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5339"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4099>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4099"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5401>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5401"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4101>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4101"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5409>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5409"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4109>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4109"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5411>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5411"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4111>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4111"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5412>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5412"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4121>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4121"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5509>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5509"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/4129>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 4129"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/5520>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 5520"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6009>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6009"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7402>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7402"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6029>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6029"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7419>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7419"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6039>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6039"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7421>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7421"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6109>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6109"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7429>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7429"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6129>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6129"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7439>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7439"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6149>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6149"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7441>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7441"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6159>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6159"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7501>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7501"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6169>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6169"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7510>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7510"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6209>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6209"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7529>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7529"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6219>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6219"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8009>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8009"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6239>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6239"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8011>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8011"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6249>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6249"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8029>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8029"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6259>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6259"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8039>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8039"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6269>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6269"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8049>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8049"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6279>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6279"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8059>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8059"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6309>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6309"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8069>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8069"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6311>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6311"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8071>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8071"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6312>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6312"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8101>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8101"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6409>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6409"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8102>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8102"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6419>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6419"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8111>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8111"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6439>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6439"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8119>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8119"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6459>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6459"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8121>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8121"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6469>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6469"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8200>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8200"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6489>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6489"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8219>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8219"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6491>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6491"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8229>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8229"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6509>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6509"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8309>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8309"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6519>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6519"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8311>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8311"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6539>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6539"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8312>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8312"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6549>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6549"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8313>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8313"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6559>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6559"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/8321>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 8321"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6601>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6601"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9009>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9009"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/6602>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 6602"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9021>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9021"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7001>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7001"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9029>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9029"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7019>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7019"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9039>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9039"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7029>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7029"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9049>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9049"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7109>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7109"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9059>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9059"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7119>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7119"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9069>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9069"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7121>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7121"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9070>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9070"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7131>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7131"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9081>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9081"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7140>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7140"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9100>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9100"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7159>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7159"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9111>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9111"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7161>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7161"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9129>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9129"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7200>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7200"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9139>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9139"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7219>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7219"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9149>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9149"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7239>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7239"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9151>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9151"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7309>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7309"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9168>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9168"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7319>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7319"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9169>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9169"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7329>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7329"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9171>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9171"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7341>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7341"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9209>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9209"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7359>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7359"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9211>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9211"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/7401>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 7401"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9221>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9221"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9229>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9229"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9419>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9419"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9231>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9231"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9509>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9509"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9309>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9309"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9511>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9511"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9329>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9329"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9519>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9519"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9339>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9339"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9520>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9520"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9349>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9349"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9531>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9531"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9359>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9359"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9369>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9369"@de .
+
+<http://leipzig-data.de/Data/Wahlbezirk/9400>  a ld:Wahlbezirk ; 
+	 rdfs:label "Wahlbezirk 9400"@de .
+
+
+
+<> rdfs:label "Wahlbezirke Leipzig" .
+
+<> rdfs:comment "Extrahiert aus Straßenverzeichnis Kommunalwahle 2014" ;
+   cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
+   cc:attributionURL <http://codefor.de/leipzig/> ;
+   cc:attributionName "OK Lab Leipzig" .
